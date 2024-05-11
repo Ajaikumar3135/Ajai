@@ -1,0 +1,2000 @@
+City,Vehicle Type,Weather,Economic Condition,Day Of Week,Hour Of Day,Speed,Is Peak Hour,Random Event Occurred,Energy Consumption,Traffic Density
+SolarisVille,Drone,Snowy,Stable,Sunday,20,29.4268,0,0,14.7134,0.5241
+AquaCity,Flying Car,Solar Flare,Recession,Wednesday,2,118.8,0,0,143.5682,0.3208
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Wednesday,16,100.3904,0,0,91.264,0.0415
+Ecoopolis,Drone,Clear,Booming,Thursday,8,76.8,1,0,46.0753,0.1811
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Saturday,16,45.2176,0,0,40.1934,0.4544
+TechHaven,Autonomous Vehicle,Snowy,Recession,Thursday,20,30.5179,0,0,37.5562,0.0843
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Monday,21,43.9222,0,0,39.042,0.0293
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Friday,20,20.4236,0,0,18.1543,0.1393
+MetropolisX,Drone,Snowy,Recession,Saturday,7,69.9735,0,0,41.8502,0.1505
+SolarisVille,Drone,Snowy,Booming,Saturday,15,37.9431,0,0,18.9715,0.2485
+Neuroburg,Drone,Snowy,Stable,Saturday,13,29.5809,1,0,14.1535,0.0626
+MetropolisX,Drone,Clear,Booming,Tuesday,7,40.4778,1,0,18.399,0.5179
+TechHaven,Autonomous Vehicle,Clear,Recession,Sunday,7,87.8801,0,0,79.891,0.1248
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,10,60.0447,0,0,57.459,0.0342
+Ecoopolis,Drone,Solar Flare,Booming,Monday,8,70.2698,1,0,35.1349,0.2389
+Ecoopolis,Car,Rainy,Booming,Friday,9,66.8856,0,0,66.8856,0.2521
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Monday,21,126.7644,0,0,107.1712,0.0784
+MetropolisX,Flying Car,Clear,Recession,Friday,21,87.0448,0,0,118.6975,0.1352
+Ecoopolis,Drone,Solar Flare,Booming,Friday,3,62.3252,0,0,31.1626,0.2185
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Wednesday,19,67.2491,0,0,56.607,0.1994
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Saturday,1,69.0747,0,0,55.2598,0.2113
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,19,32.5679,0,0,26.0543,0.055
+Ecoopolis,Car,Rainy,Recession,Thursday,5,94.7111,0,0,94.7111,0.0984
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Monday,10,118.7922,0,0,95.0338,0.0588
+MetropolisX,Flying Car,Clear,Booming,Friday,12,114.4823,0,0,156.1122,0.4281
+Neuroburg,Drone,Electromagnetic Storm,Recession,Thursday,23,89.2206,0,0,53.3616,0.0184
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Saturday,10,42.6291,0,0,34.1033,0.134
+MetropolisX,Autonomous Vehicle,Clear,Recession,Wednesday,12,37.6441,0,0,34.2219,0.2449
+Ecoopolis,Drone,Clear,Recession,Monday,13,93.2075,0,0,46.6037,0.0446
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Thursday,0,96,0,0,90.1531,0.2053
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Sunday,10,45.5341,0,0,36.4273,0.1085
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Wednesday,1,69.4651,0,0,63.1501,0.0219
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Thursday,2,22.7334,0,0,22.7334,0.1498
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Tuesday,13,55.0833,0,0,44.0666,0.157
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Tuesday,11,27.5094,0,1,22.0075,0.1949
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,20,70.3384,0,0,107.9196,0.6792
+TechHaven,Autonomous Vehicle,Snowy,Stable,Friday,21,55.6397,0,0,49.2998,0.1642
+AquaCity,Flying Car,Rainy,Booming,Monday,17,39.386,1,0,47.2632,0.5913
+TechHaven,Drone,Clear,Stable,Thursday,17,45.6719,1,0,20.76,0.2946
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,12,24.7208,0,0,23.6562,0.3319
+Neuroburg,Autonomous Vehicle,Clear,Booming,Saturday,4,44.616,0,0,40.56,0.0803
+TechHaven,Autonomous Vehicle,Clear,Recession,Thursday,23,57.7985,0,0,52.5441,0.0457
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Saturday,11,24.8612,0,0,19.8889,0.223
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Tuesday,12,87.8502,0,0,79.8638,0.2282
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Saturday,18,58.8387,0,0,47.071,0.2684
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Thursday,17,53.0764,1,0,40.6326,0.5668
+SolarisVille,Autonomous Vehicle,Rainy,Recession,Thursday,15,30.3887,0,0,24.311,0.215
+SolarisVille,Drone,Solar Flare,Stable,Thursday,3,66.6029,0,0,33.3014,0.1344
+AquaCity,Flying Car,Snowy,Recession,Wednesday,18,68.7717,1,0,82.526,0.3613
+Neuroburg,Autonomous Vehicle,Clear,Recession,Saturday,7,106.5692,0,0,96.8811,0.0514
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Thursday,6,64.5277,0,0,51.6222,0.1454
+Neuroburg,Autonomous Vehicle,Clear,Stable,Tuesday,14,99.4133,0,0,90.3757,0.0841
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Friday,8,108.3456,1,0,99.5715,0.08
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Friday,16,83.9572,0,0,80.3418,0.0978
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,9,27.9911,0,0,26.7857,0.2355
+TechHaven,Drone,Snowy,Booming,Saturday,10,64.514,0,1,38.5849,0.4095
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Wednesday,11,24.2928,0,0,19.4342,0.0246
+SolarisVille,Car,Rainy,Recession,Wednesday,18,82.3866,1,0,82.3866,0.1821
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Monday,16,80.3199,0,0,64.2559,0.0854
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Tuesday,4,46.3866,0,0,37.1093,0.1823
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Monday,8,86.4,1,0,85.8516,0.3704
+TechHaven,Drone,Solar Flare,Stable,Thursday,12,62.6841,0,0,49.4667,0.3329
+TechHaven,Autonomous Vehicle,Rainy,Stable,Wednesday,4,66.4338,0,0,63.573,0.2647
+Neuroburg,Drone,Solar Flare,Booming,Tuesday,9,67.1605,0,0,38.1594,0.0607
+Ecoopolis,Flying Car,Snowy,Recession,Sunday,23,23.1912,0,0,27.8294,0.347
+Ecoopolis,Drone,Snowy,Stable,Friday,5,44.7029,0,0,22.3514,0.2919
+TechHaven,Autonomous Vehicle,Rainy,Recession,Sunday,23,38.838,0,0,37.1655,0.0602
+TechHaven,Drone,Clear,Recession,Saturday,12,54.3648,1,0,24.7113,0.0336
+AquaCity,Autonomous Vehicle,Snowy,Booming,Tuesday,20,18.6312,0,0,16.5611,0.5095
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Monday,8,48.0126,1,0,42.6779,0.309
+TechHaven,Drone,Electromagnetic Storm,Booming,Sunday,7,38.3157,0,0,35.8064,0.2612
+TechHaven,Autonomous Vehicle,Rainy,Stable,Friday,8,81.722,1,0,62.5623,0.2463
+MetropolisX,Flying Car,Rainy,Stable,Saturday,7,73.6459,0,0,105.7119,0.4964
+SolarisVille,Flying Car,Electromagnetic Storm,Recession,Sunday,16,45.2959,0,0,60.3945,0.1352
+MetropolisX,Autonomous Vehicle,Clear,Booming,Wednesday,10,65.7099,0,0,52.5679,0.8521
+SolarisVille,Drone,Clear,Booming,Sunday,9,24.0919,0,0,12.046,1.0363
+MetropolisX,Autonomous Vehicle,Clear,Booming,Sunday,9,17.663,0,0,19.6255,0.9877
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Friday,10,61.7505,0,0,49.4004,0.276
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Tuesday,14,126.1146,0,0,100.8917,0.0583
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Sunday,11,87.4272,0,0,79.4793,0.0484
+AquaCity,Autonomous Vehicle,Snowy,Recession,Wednesday,2,83.3714,0,0,66.6971,0.1486
+AquaCity,Flying Car,Rainy,Stable,Friday,4,16.9444,0,0,20.3333,0.7269
+AquaCity,Autonomous Vehicle,Rainy,Recession,Tuesday,22,77.3975,0,0,61.918,0.1184
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Thursday,18,40.0824,1,0,35.6288,0.0858
+MetropolisX,Drone,Snowy,Stable,Thursday,9,53.4655,0,0,31.977,0.5011
+MetropolisX,Autonomous Vehicle,Clear,Booming,Tuesday,17,76.4268,1,0,67.935,1.3003
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Saturday,18,53.7649,0,0,43.012,0.2456
+SolarisVille,Car,Rainy,Recession,Tuesday,7,23.5902,1,0,23.5902,0.2398
+MetropolisX,Flying Car,Snowy,Booming,Monday,11,97.8597,0,0,140.4684,0.4268
+TechHaven,Autonomous Vehicle,Snowy,Recession,Thursday,23,82.4619,0,1,78.9109,0.1199
+AquaCity,Flying Car,Rainy,Stable,Tuesday,0,15.485,0,0,18.582,0.6758
+Neuroburg,Drone,Solar Flare,Booming,Saturday,2,49.4976,0,0,28.1237,0.1103
+MetropolisX,Drone,Snowy,Booming,Thursday,0,54.762,0,0,32.7524,0.4261
+Ecoopolis,Drone,Solar Flare,Booming,Tuesday,23,43.5827,0,0,21.7914,0.2565
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Sunday,17,79.0542,0,0,71.8675,0.1036
+AquaCity,Drone,Snowy,Recession,Tuesday,16,82.4367,0,0,41.2183,0.2522
+TechHaven,Autonomous Vehicle,Clear,Stable,Friday,13,58.7393,0,0,53.3993,0.2415
+MetropolisX,Drone,Electromagnetic Storm,Recession,Sunday,19,50.0453,0,0,29.9314,0.184
+Neuroburg,Drone,Electromagnetic Storm,Stable,Tuesday,7,80.4246,1,0,38.4807,0.1251
+Neuroburg,Drone,Clear,Stable,Sunday,22,87.2217,0,0,49.5578,0.0739
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Monday,13,41.4928,0,0,33.1943,0.1358
+Ecoopolis,Drone,Clear,Booming,Sunday,18,72.6438,0,0,36.3219,0.3152
+MetropolisX,Autonomous Vehicle,Clear,Recession,Saturday,22,95.8318,0,0,87.1198,0.215
+Ecoopolis,Car,Electromagnetic Storm,Stable,Sunday,18,86.3016,0,0,86.3016,0.3371
+Neuroburg,Autonomous Vehicle,Clear,Stable,Wednesday,3,95.1267,0,0,86.4788,0.0796
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Sunday,21,30.6116,0,0,27.8287,0.3842
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,15,22.5322,0,0,21.5619,0.0869
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Sunday,5,33.9217,0,0,32.4609,0.0674
+MetropolisX,Drone,Solar Flare,Recession,Tuesday,1,94.7131,0,0,53.8142,0.254
+MetropolisX,Drone,Clear,Stable,Saturday,17,92.1615,0,0,52.3645,0.4418
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Tuesday,17,27.0622,1,0,19.6816,0.0205
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,22,26.0667,0,0,20.8533,0.1015
+Ecoopolis,Autonomous Vehicle,Solar Flare,Booming,Friday,22,26.4705,0,0,21.1764,0.2063
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Sunday,12,27.2911,1,0,21.8328,0.2307
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Monday,2,16.7329,0,0,15.2117,0.2575
+TechHaven,Autonomous Vehicle,Clear,Recession,Tuesday,6,68.3727,0,1,62.157,0.1012
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,1,100.7423,0,0,96.4041,0.0929
+AquaCity,Flying Car,Rainy,Stable,Friday,1,49.252,0,0,59.1024,0.7184
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,17,90.3155,1,1,69.141,0.0353
+AquaCity,Drone,Clear,Recession,Tuesday,10,75.6428,0,0,37.8214,0.1003
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Monday,7,31.5444,1,0,22.9414,0.1314
+Neuroburg,Drone,Snowy,Recession,Tuesday,1,54.6268,0,0,32.6715,0.0138
+Ecoopolis,Drone,Rainy,Recession,Sunday,7,77.2455,0,0,38.6227,0.1417
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Monday,17,104.4846,1,0,79.9882,0.0661
+TechHaven,Autonomous Vehicle,Snowy,Booming,Thursday,1,42.805,0,0,40.9617,0.1941
+SolarisVille,Car,Clear,Booming,Wednesday,0,30.8643,0,0,30.8643,0.5049
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,21,44.3449,0,0,36.2695,0.0713
+TechHaven,Drone,Clear,Booming,Sunday,23,41.681,0,0,23.6824,0.3316
+TechHaven,Drone,Electromagnetic Storm,Recession,Friday,9,55.2164,0,0,33.0242,0.0582
+TechHaven,Drone,Clear,Recession,Saturday,2,60.0913,0,0,34.1428,0.0368
+MetropolisX,Drone,Snowy,Booming,Saturday,17,57.336,0,0,34.2919,0.5104
+SolarisVille,Autonomous Vehicle,Rainy,Stable,Thursday,8,28.3195,1,0,22.6556,0.3388
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Monday,8,34.8017,1,0,27.8413,0.3693
+Ecoopolis,Drone,Electromagnetic Storm,Recession,Thursday,2,91.3279,0,0,45.6639,0.092
+Ecoopolis,Car,Electromagnetic Storm,Recession,Friday,10,79.0093,0,0,79.0093,0.0748
+Neuroburg,Drone,Rainy,Recession,Tuesday,13,78.2106,0,0,46.7767,0.0376
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,6,76.1136,0,0,72.8359,0.3847
+AquaCity,Flying Car,Rainy,Recession,Saturday,15,53.1588,0,0,63.7906,0.1361
+SolarisVille,Autonomous Vehicle,Clear,Recession,Sunday,23,19.7831,0,0,17.585,0.2074
+AquaCity,Drone,Clear,Recession,Tuesday,23,75.3348,0,0,37.6674,0.258
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Sunday,16,84.1138,0,0,67.2911,0.1065
+MetropolisX,Flying Car,Electromagnetic Storm,Recession,Thursday,8,132.4224,1,0,165.8871,0.5267
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,16,35.1969,0,0,33.6812,0.0227
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Sunday,9,61.6097,0,0,56.0088,0.0566
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Monday,8,40.5598,1,0,31.0505,0.0316
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,7,66.552,1,0,50.9489,0.3076
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Tuesday,12,71.6281,0,0,68.5436,0.1195
+TechHaven,Drone,Clear,Stable,Thursday,6,41.0324,0,0,32.3804,0.3143
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Sunday,8,28.8353,0,1,23.0682,0.7629
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Wednesday,20,52.8844,0,0,47.0084,0.1537
+Ecoopolis,Drone,Clear,Stable,Thursday,10,67.0366,0,0,33.5183,0.2374
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Saturday,3,90.6058,0,0,72.4846,0.0612
+TechHaven,Autonomous Vehicle,Clear,Recession,Tuesday,3,82.4126,0,0,74.9206,0.0518
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Wednesday,10,20.5876,0,0,16.4701,0.1359
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Wednesday,17,79.5364,1,0,57.8447,0.0695
+AquaCity,Autonomous Vehicle,Clear,Recession,Wednesday,8,47.6074,1,0,38.0859,0.2163
+TechHaven,Autonomous Vehicle,Rainy,Booming,Thursday,19,32.6622,0,0,45.2195,0.3466
+TechHaven,Autonomous Vehicle,Clear,Recession,Saturday,22,86.6063,0,0,78.733,0.036
+TechHaven,Drone,Rainy,Booming,Saturday,22,66.1592,0,0,39.5689,0.2467
+TechHaven,Autonomous Vehicle,Rainy,Stable,Friday,23,53.3564,0,0,51.0588,0.1191
+TechHaven,Autonomous Vehicle,Clear,Stable,Tuesday,2,55.6624,0,0,50.6022,0.2764
+AquaCity,Autonomous Vehicle,Rainy,Recession,Wednesday,16,29.6392,0,0,23.7113,0.0635
+TechHaven,Autonomous Vehicle,Snowy,Stable,Tuesday,11,44.7366,0,0,42.8101,0.1836
+Ecoopolis,Car,Rainy,Booming,Sunday,11,86.4,0,0,88.8321,0.2931
+MetropolisX,Autonomous Vehicle,Clear,Recession,Friday,7,40.0048,1,0,29.0944,0.1189
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,14,72.3405,0,0,57.8724,0.6314
+Ecoopolis,Car,Snowy,Booming,Monday,2,38.4812,0,1,38.4812,0.4399
+TechHaven,Drone,Clear,Stable,Tuesday,1,43.5704,0,0,24.7559,0.2606
+MetropolisX,Autonomous Vehicle,Clear,Stable,Sunday,17,102.2957,0,0,92.9961,0.4548
+Ecoopolis,Car,Electromagnetic Storm,Stable,Thursday,7,26.3477,1,0,26.3477,0.3872
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Wednesday,12,76.573,0,0,73.2756,0.1115
+TechHaven,Drone,Electromagnetic Storm,Recession,Thursday,8,52.7537,1,0,25.241,0.0924
+Neuroburg,Autonomous Vehicle,Clear,Stable,Tuesday,11,32.5102,0,0,29.5547,0.0747
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Tuesday,21,32.189,0,0,28.6125,0.1843
+AquaCity,Autonomous Vehicle,Solar Flare,Booming,Friday,8,86.4,1,0,85.0757,0.5555
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Sunday,1,67.5556,0,1,64.6465,0.0387
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Saturday,1,62.8571,0,1,50.2857,0.1962
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Monday,19,101.4115,0,1,109.6583,0.0741
+AquaCity,Car,Solar Flare,Recession,Thursday,23,65.3388,0,0,65.3388,0.2861
+SolarisVille,Autonomous Vehicle,Clear,Stable,Thursday,6,21.9869,0,0,17.5895,0.4367
+AquaCity,Drone,Rainy,Recession,Friday,14,32.8386,0,0,16.4193,0.0951
+SolarisVille,Drone,Solar Flare,Booming,Sunday,18,48.1503,0,0,24.0752,0.2204
+Neuroburg,Drone,Solar Flare,Stable,Saturday,1,63.5734,0,0,36.1212,0.1214
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Sunday,21,78.0143,0,1,74.6548,0.1484
+AquaCity,Flying Car,Snowy,Booming,Tuesday,2,38.2851,0,0,45.9422,0.8769
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,9,92.9456,0,1,88.9432,0.2709
+Ecoopolis,Flying Car,Electromagnetic Storm,Recession,Saturday,16,43.1249,0,0,51.7499,0.1005
+AquaCity,Flying Car,Snowy,Booming,Saturday,13,12.1134,1,0,14.5361,0.7376
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Friday,2,50.4936,0,0,40.3949,0.2263
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Tuesday,16,99.9956,0,0,90.9051,0.0698
+Ecoopolis,Flying Car,Rainy,Recession,Friday,1,44.632,0,0,53.5584,0.1584
+AquaCity,Autonomous Vehicle,Snowy,Stable,Saturday,5,52.8391,0,0,42.2712,0.4774
+AquaCity,Autonomous Vehicle,Snowy,Booming,Saturday,3,33.926,0,0,27.1408,0.5898
+AquaCity,Autonomous Vehicle,Clear,Recession,Thursday,13,56.1398,0,0,44.9118,0.0767
+MetropolisX,Autonomous Vehicle,Clear,Stable,Friday,3,30.203,0,0,33.5589,0.9153
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Saturday,9,112.7392,0,0,102.4902,0.356
+AquaCity,Autonomous Vehicle,Clear,Stable,Friday,4,34.4879,0,0,27.5903,0.3142
+Ecoopolis,Drone,Solar Flare,Stable,Sunday,3,96,0,0,52.6993,0.5394
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Monday,3,38.3482,0,0,36.6969,0.4954
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,16,120.384,0,0,116.4207,0.6609
+Ecoopolis,Drone,Rainy,Stable,Wednesday,8,18.1274,1,0,9.0637,0.1659
+MetropolisX,Car,Clear,Recession,Monday,11,62.5111,0,0,112.7545,0.0764
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Tuesday,11,24.7793,0,0,22.5267,0.0218
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Thursday,23,75.3525,0,0,72.1077,0.0533
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,22,69.0459,0,0,55.2367,0.5454
+TechHaven,Drone,Rainy,Booming,Monday,12,29.6509,0,0,17.7338,0.2609
+AquaCity,Drone,Electromagnetic Storm,Recession,Thursday,15,23.5273,0,0,13.0707,0.2528
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,17,44.7815,1,0,34.2825,0.2543
+MetropolisX,Drone,Rainy,Booming,Wednesday,4,71.4009,0,0,42.7039,0.6871
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Monday,8,43.8737,1,0,35.099,0.5689
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,6,66.6628,0,0,53.3302,0.5877
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Wednesday,13,27.2977,0,0,34.4668,0.1063
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Sunday,20,98.8604,0,0,94.6033,0.434
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,8,86.0084,1,0,65.8437,0.08
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,15,75.6581,0,0,60.5265,0.2732
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Thursday,23,35.6321,0,0,34.0977,0.0616
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Thursday,5,48.5656,0,0,46.4742,0.0964
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Wednesday,1,45.2906,0,0,43.3403,0.3778
+Neuroburg,Autonomous Vehicle,Clear,Recession,Friday,12,14.8153,0,1,14.965,0.0565
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Friday,19,74.9255,0,0,72.4233,0.6789
+SolarisVille,Drone,Rainy,Stable,Saturday,17,67.4999,0,0,33.75,0.3204
+Ecoopolis,Drone,Clear,Recession,Monday,7,84.48,1,0,52.8619,0.0729
+AquaCity,Car,Electromagnetic Storm,Stable,Sunday,13,86.4,1,0,102.1339,1.0539
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Friday,9,104.8586,0,0,88.302,0.7371
+Neuroburg,Drone,Solar Flare,Booming,Saturday,23,77.2522,0,0,43.8933,0.1602
+SolarisVille,Drone,Rainy,Booming,Tuesday,9,36.999,0,0,18.4995,0.4687
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Sunday,7,105.3779,0,1,100.8401,0.301
+SolarisVille,Drone,Snowy,Booming,Sunday,5,100.4629,0,0,50.2314,0.4026
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Friday,9,39.4885,0,0,37.788,0.5251
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,5,64.7435,0,0,61.9555,0.4523
+Ecoopolis,Autonomous Vehicle,Solar Flare,Booming,Wednesday,3,55.7979,0,0,44.6383,0.2116
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Tuesday,10,72.0442,0,0,57.6353,0.3654
+MetropolisX,Car,Snowy,Stable,Wednesday,19,29.1974,0,0,34.9251,0.4019
+TechHaven,Autonomous Vehicle,Snowy,Stable,Thursday,5,49.0725,0,0,46.9593,0.2417
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,23,73.0923,0,0,58.4738,0.2169
+Ecoopolis,Drone,Rainy,Booming,Friday,23,73.3564,0,0,36.6782,0.1661
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Sunday,3,106.9753,0,0,102.3688,0.2748
+TechHaven,Autonomous Vehicle,Clear,Stable,Monday,19,112.2947,0,0,94.5242,0.2249
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Sunday,3,56.679,0,0,45.3432,0.2115
+SolarisVille,Autonomous Vehicle,Rainy,Booming,Monday,5,67.6239,0,0,54.0991,0.2347
+AquaCity,Autonomous Vehicle,Snowy,Booming,Saturday,10,29.2595,0,0,23.4076,0.3867
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,0,27.3161,0,0,26.1398,0.0653
+SolarisVille,Car,Clear,Recession,Friday,2,69.5322,0,0,69.5322,0.1131
+SolarisVille,Drone,Solar Flare,Booming,Tuesday,14,27.7507,0,1,13.8753,0.1228
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Saturday,16,26.7703,0,0,25.6175,0.5115
+TechHaven,Autonomous Vehicle,Rainy,Recession,Tuesday,19,33.2845,0,0,29.4918,0.0587
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,23,65.1787,0,0,52.1429,0.3637
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,7,24.5429,0,0,23.486,0.234
+Neuroburg,Autonomous Vehicle,Clear,Recession,Thursday,21,26.83,0,1,20.8469,0.0201
+SolarisVille,Autonomous Vehicle,Clear,Stable,Saturday,2,63.2871,0,0,50.6296,0.5569
+SolarisVille,Car,Snowy,Stable,Monday,20,39.9489,0,0,39.9489,0.4242
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Monday,4,60.1104,0,0,48.0884,0.2773
+Ecoopolis,Flying Car,Snowy,Booming,Tuesday,17,47.8711,1,1,57.4454,0.2934
+AquaCity,Autonomous Vehicle,Snowy,Booming,Saturday,7,16.8804,0,0,13.5043,0.7157
+TechHaven,Drone,Rainy,Recession,Wednesday,2,43.6531,0,0,26.1083,0.063
+MetropolisX,Autonomous Vehicle,Clear,Booming,Thursday,15,103.68,0,0,122.9405,1.1955
+MetropolisX,Autonomous Vehicle,Clear,Stable,Friday,22,53.0737,0,0,48.2488,0.5597
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Monday,23,60.1458,0,0,54.678,0.2206
+Ecoopolis,Car,Electromagnetic Storm,Recession,Saturday,16,51.3659,0,0,51.3659,0.101
+TechHaven,Drone,Snowy,Stable,Sunday,18,28.2497,0,0,16.8958,0.1699
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,20,66.4128,0,0,59.0336,0.1471
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Tuesday,15,99.2467,0,0,94.9729,0.0449
+SolarisVille,Flying Car,Solar Flare,Booming,Monday,19,101.501,0,0,121.8012,0.1647
+TechHaven,Drone,Solar Flare,Recession,Sunday,6,36.7516,0,1,20.8816,0.1555
+AquaCity,Drone,Clear,Recession,Wednesday,23,22.822,0,0,11.411,0.1037
+MetropolisX,Autonomous Vehicle,Clear,Booming,Tuesday,11,57.7441,0,0,64.1601,1.1897
+AquaCity,Drone,Clear,Stable,Friday,4,98.6966,0,0,49.3483,0.4763
+SolarisVille,Drone,Snowy,Booming,Saturday,4,32.2477,0,0,16.1238,0.2017
+SolarisVille,Autonomous Vehicle,Rainy,Recession,Wednesday,0,61.2787,0,0,49.0229,0.1066
+MetropolisX,Drone,Rainy,Stable,Saturday,14,24.7759,1,1,13.0399,0.7456
+SolarisVille,Drone,Solar Flare,Recession,Wednesday,2,55.3435,0,0,27.6717,0.11
+SolarisVille,Car,Solar Flare,Stable,Wednesday,3,46.9127,0,0,46.9127,0.2487
+Neuroburg,Autonomous Vehicle,Clear,Recession,Sunday,8,80.7902,0,0,73.4457,0.036
+TechHaven,Drone,Solar Flare,Booming,Sunday,7,104.3681,0,0,59.3,0.2542
+AquaCity,Autonomous Vehicle,Rainy,Stable,Monday,9,43.5004,0,0,38.667,0.4162
+TechHaven,Flying Car,Electromagnetic Storm,Recession,Saturday,5,53.8241,0,0,77.2595,0.1426
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Wednesday,5,23.5041,0,0,18.8032,0.1994
+AquaCity,Autonomous Vehicle,Clear,Recession,Saturday,7,47.6277,0,0,38.1021,0.3367
+TechHaven,Car,Solar Flare,Stable,Wednesday,9,45.6171,0,0,51.8376,0.367
+TechHaven,Drone,Rainy,Recession,Sunday,5,44.5446,0,0,26.6415,0.0365
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Thursday,5,31.987,0,0,29.0791,0.0805
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Saturday,16,68.7066,0,0,65.7479,0.5908
+Neuroburg,Drone,Clear,Booming,Thursday,8,51.9782,1,0,23.6265,0.1098
+TechHaven,Autonomous Vehicle,Rainy,Booming,Saturday,16,87.5601,0,0,83.7896,0.1497
+Ecoopolis,Drone,Electromagnetic Storm,Stable,Friday,5,96,0,0,58.8103,0.158
+MetropolisX,Drone,Snowy,Booming,Wednesday,12,73.8281,0,0,53.9679,1.01
+AquaCity,Drone,Solar Flare,Recession,Tuesday,16,55.8019,0,0,27.901,0.2886
+AquaCity,Autonomous Vehicle,Clear,Stable,Sunday,14,86.4,1,0,82.9629,0.5345
+TechHaven,Autonomous Vehicle,Rainy,Booming,Monday,16,26.877,0,0,25.7196,0.252
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Wednesday,4,18.9122,0,0,18.9122,0.3929
+TechHaven,Autonomous Vehicle,Clear,Stable,Friday,16,72.5656,0,0,65.9687,0.1922
+MetropolisX,Autonomous Vehicle,Clear,Stable,Thursday,17,49.7726,1,0,39.8181,0.692
+SolarisVille,Car,Clear,Booming,Wednesday,20,60.1602,0,0,60.1602,0.514
+SolarisVille,Autonomous Vehicle,Rainy,Stable,Thursday,15,99.5336,0,0,79.6269,0.2569
+AquaCity,Autonomous Vehicle,Rainy,Booming,Thursday,8,50.1135,1,0,40.0908,0.478
+MetropolisX,Drone,Solar Flare,Booming,Sunday,4,68.3744,0,0,38.8491,0.5388
+Neuroburg,Autonomous Vehicle,Clear,Stable,Tuesday,21,34.9883,0,0,27.1859,0.13
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,9,79.6384,0,0,76.209,0.548
+AquaCity,Autonomous Vehicle,Rainy,Recession,Thursday,19,35.9414,0,1,31.9479,0.0984
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Sunday,18,31.277,0,0,25.0216,0.2543
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,16,98.8936,0,0,94.6351,0.0572
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Saturday,17,101.6077,0,0,81.2862,0.7929
+AquaCity,Drone,Solar Flare,Booming,Saturday,9,88.3817,0,0,44.1908,0.6382
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Saturday,15,29.9178,0,1,27.198,0.1023
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Tuesday,11,113.1671,0,0,90.5336,0.2289
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,5,98.1115,0,0,78.4892,0.5482
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Thursday,20,77.76,0,0,100.3038,0.1586
+Ecoopolis,Car,Solar Flare,Stable,Friday,4,96,0,0,100.3537,0.3321
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,18,76.4214,1,0,54.1707,0.0782
+AquaCity,Autonomous Vehicle,Snowy,Stable,Friday,9,50.9965,0,0,40.7972,0.3465
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Wednesday,15,83.713,0,0,76.1027,0.366
+TechHaven,Drone,Clear,Recession,Friday,7,114.1483,1,0,51.8856,0.0736
+SolarisVille,Flying Car,Rainy,Stable,Wednesday,5,65.3337,0,0,78.4005,0.3778
+MetropolisX,Drone,Clear,Recession,Friday,12,46.7518,0,0,26.5635,0.2027
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Saturday,6,46.03,0,0,66.4214,0.4494
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Saturday,0,38.6633,0,0,30.9306,0.1044
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,19,55.5293,0,0,44.4235,0.1721
+TechHaven,Autonomous Vehicle,Snowy,Recession,Friday,14,48.0055,0,0,45.9383,0.1067
+AquaCity,Drone,Solar Flare,Stable,Friday,20,23.91,0,0,11.955,0.7076
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Tuesday,3,39.6573,0,0,37.9495,0.0544
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Wednesday,10,105.2646,0,0,100.7317,0.332
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Sunday,8,97.0897,0,0,88.2634,0.2699
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Friday,23,36.2783,0,0,34.716,0.0801
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,6,44.3206,0,0,35.4565,0.4452
+Ecoopolis,Car,Snowy,Booming,Sunday,17,83.2957,0,0,83.2957,0.1951
+TechHaven,Flying Car,Rainy,Recession,Friday,4,32.7983,0,0,47.079,0.0688
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Monday,11,40.7911,0,0,37.0828,0.209
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Thursday,12,35.3851,0,0,28.3081,0.2266
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,6,76.3171,0,0,61.0537,0.175
+Neuroburg,Autonomous Vehicle,Clear,Recession,Saturday,23,72.5165,0,0,65.9241,0.0336
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Friday,22,42.6658,0,0,38.787,0.5299
+TechHaven,Car,Snowy,Recession,Sunday,18,71.1336,0,0,85.088,0.0524
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Tuesday,18,91.3043,1,0,56.7548,0.0154
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Tuesday,9,49.6351,0,0,39.708,0.1439
+AquaCity,Autonomous Vehicle,Snowy,Recession,Tuesday,15,57.9276,0,0,46.3421,0.1638
+AquaCity,Autonomous Vehicle,Solar Flare,Booming,Friday,11,23.7484,0,1,18.9987,0.5265
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Thursday,11,48.9805,0,0,49.4753,0.053
+Neuroburg,Drone,Solar Flare,Booming,Friday,11,23.0309,0,0,13.0858,0.1401
+MetropolisX,Drone,Electromagnetic Storm,Booming,Wednesday,14,43.9654,0,0,26.2951,0.41
+AquaCity,Drone,Solar Flare,Booming,Saturday,13,26.9863,1,0,13.4932,0.772
+Ecoopolis,Drone,Snowy,Booming,Tuesday,20,86.145,0,0,43.0725,0.2289
+TechHaven,Autonomous Vehicle,Snowy,Recession,Thursday,20,32.5241,0,0,28.8181,0.0255
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Sunday,20,58.1833,0,0,48.9964,0.8993
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,10,38.83,0,0,51.6082,0.3357
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Saturday,4,56.3571,0,0,45.0857,0.2455
+Ecoopolis,Drone,Electromagnetic Storm,Stable,Saturday,16,45.3036,0,0,22.6518,0.4022
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Friday,10,23.0764,0,0,20.9785,0.1289
+Ecoopolis,Autonomous Vehicle,Clear,Recession,Friday,7,14.6843,1,0,11.7474,0.0963
+MetropolisX,Drone,Rainy,Stable,Tuesday,17,101.3764,1,0,48.5055,0.4759
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Wednesday,19,28.1118,0,0,22.9925,0.0541
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Wednesday,22,99.1918,0,0,90.1744,0.2784
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Monday,20,37.8518,0,0,30.9588,0.066
+SolarisVille,Drone,Clear,Recession,Monday,14,26.0479,0,0,13.024,0.1935
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,7,93.8704,0,0,99.8091,0.067
+AquaCity,Car,Electromagnetic Storm,Booming,Saturday,12,26.7635,1,0,26.7635,0.7987
+AquaCity,Autonomous Vehicle,Snowy,Recession,Sunday,12,32.9778,1,0,26.3822,0.3344
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,16,90.8348,0,1,80.742,0.3944
+AquaCity,Autonomous Vehicle,Snowy,Recession,Wednesday,13,39.3277,0,0,31.4621,0.1884
+Neuroburg,Autonomous Vehicle,Clear,Recession,Tuesday,15,56.7026,0,0,51.5478,0.0298
+TechHaven,Autonomous Vehicle,Rainy,Recession,Saturday,0,67.2349,0,0,64.3396,0.075
+TechHaven,Drone,Clear,Stable,Tuesday,15,39.2596,0,0,22.3066,0.156
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Sunday,5,103.4202,0,0,82.7361,0.0605
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Sunday,11,96,0,0,78.3577,0.2915
+TechHaven,Autonomous Vehicle,Clear,Stable,Tuesday,18,87.2132,1,0,58.7295,0.3388
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Thursday,8,100.713,1,0,73.2458,0.4822
+TechHaven,Autonomous Vehicle,Clear,Stable,Tuesday,1,33.4053,0,0,30.3684,0.1769
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Friday,9,114.4144,0,0,91.5315,0.0349
+MetropolisX,Autonomous Vehicle,Clear,Stable,Saturday,7,107.4313,0,0,97.6648,0.5176
+SolarisVille,Autonomous Vehicle,Clear,Booming,Monday,9,109.2834,0,0,87.4267,0.4481
+SolarisVille,Autonomous Vehicle,Clear,Recession,Sunday,3,69.3223,0,0,61.6198,0.079
+MetropolisX,Drone,Solar Flare,Booming,Friday,19,31.4835,0,0,31.9435,0.6791
+TechHaven,Drone,Clear,Recession,Thursday,20,50.1679,0,0,39.5896,0.0387
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Monday,8,56.5097,1,0,43.261,0.1207
+SolarisVille,Car,Electromagnetic Storm,Booming,Wednesday,14,63.656,0,1,63.656,0.4839
+SolarisVille,Car,Clear,Stable,Friday,16,61.5152,0,0,61.5152,0.3658
+TechHaven,Drone,Solar Flare,Booming,Saturday,0,81.3018,0,0,46.1942,0.3015
+AquaCity,Flying Car,Electromagnetic Storm,Stable,Monday,22,91.0157,0,0,109.2189,0.4951
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Friday,22,31.2036,0,0,29.8599,0.1275
+AquaCity,Car,Electromagnetic Storm,Booming,Sunday,16,62.0059,0,0,62.0059,0.9777
+SolarisVille,Drone,Electromagnetic Storm,Recession,Wednesday,2,93.0594,0,0,46.5297,0.1228
+Neuroburg,Autonomous Vehicle,Clear,Booming,Sunday,16,69.7219,0,0,63.3835,0.057
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,1,25.8427,0,0,24.7299,0.0777
+AquaCity,Drone,Rainy,Stable,Monday,20,72.5827,0,0,36.2914,0.5883
+SolarisVille,Drone,Snowy,Booming,Wednesday,9,34.9948,0,0,17.4974,0.4262
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Sunday,3,56.7372,0,0,45.3897,0.1252
+AquaCity,Car,Rainy,Booming,Saturday,14,23.1494,1,1,23.1494,0.5094
+Neuroburg,Autonomous Vehicle,Clear,Booming,Monday,9,61.5592,0,0,55.963,0.1114
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Thursday,8,74.4957,1,0,54.1787,0.2078
+SolarisVille,Flying Car,Rainy,Stable,Wednesday,11,23.7811,0,0,28.5373,0.5121
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Wednesday,20,59.1764,0,0,57.2002,0.3771
+AquaCity,Flying Car,Solar Flare,Booming,Thursday,3,33.5641,0,0,40.2769,0.4646
+SolarisVille,Car,Snowy,Booming,Friday,8,22.3518,1,0,22.3518,0.3532
+SolarisVille,Car,Electromagnetic Storm,Stable,Tuesday,23,43.2551,0,0,43.2551,0.4028
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Wednesday,8,51.7456,1,0,41.3965,0.3403
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Sunday,19,77.2353,0,0,70.2139,0.0977
+AquaCity,Drone,Solar Flare,Stable,Saturday,8,19.4386,0,0,9.7193,0.9495
+AquaCity,Drone,Rainy,Recession,Wednesday,2,80.8388,0,0,40.4194,0.1157
+SolarisVille,Flying Car,Rainy,Recession,Wednesday,17,45.7971,1,0,54.9566,0.2003
+SolarisVille,Car,Rainy,Booming,Wednesday,22,20.0001,0,0,25.0001,0.556
+TechHaven,Autonomous Vehicle,Clear,Recession,Tuesday,8,32.4969,1,0,23.6341,0.0891
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,21,109.6187,0,0,87.695,0.0488
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Saturday,4,108,0,0,89.6172,0.6614
+AquaCity,Drone,Clear,Recession,Monday,9,82.1224,0,0,41.0612,0.2364
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Monday,16,20.721,0,0,16.5768,0.0968
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,21,74.1653,0,0,65.9247,0.121
+TechHaven,Drone,Rainy,Booming,Monday,14,73.8675,0,0,44.1791,0.2267
+TechHaven,Car,Electromagnetic Storm,Recession,Tuesday,13,69.4855,0,0,83.1166,0.0839
+Ecoopolis,Autonomous Vehicle,Solar Flare,Booming,Wednesday,17,56.4296,1,0,45.1437,0.185
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Wednesday,21,18.6598,0,0,18.0367,0.2814
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Wednesday,2,79.0827,0,0,63.2661,0.169
+TechHaven,Autonomous Vehicle,Rainy,Recession,Friday,12,54.9299,0,0,52.5645,0.1315
+TechHaven,Flying Car,Clear,Recession,Monday,6,58.9386,0,0,80.3708,0.0577
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Friday,5,81.7497,0,0,74.3179,0.0685
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Sunday,14,18.0031,1,0,14.4025,0.1311
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Tuesday,2,45.3775,0,0,54.2793,0.1168
+SolarisVille,Autonomous Vehicle,Clear,Stable,Monday,1,103.9007,0,0,83.1206,0.3084
+AquaCity,Autonomous Vehicle,Rainy,Booming,Sunday,23,38.0989,0,0,30.4791,0.5752
+AquaCity,Drone,Rainy,Stable,Wednesday,20,24.1894,0,0,12.0947,0.5414
+SolarisVille,Autonomous Vehicle,Rainy,Recession,Monday,17,95.04,1,0,84.2191,0.1457
+AquaCity,Autonomous Vehicle,Rainy,Recession,Wednesday,3,69.7283,0,0,55.7826,0.1987
+TechHaven,Flying Car,Rainy,Booming,Monday,12,14.3599,0,0,20.6123,0.3293
+TechHaven,Drone,Rainy,Booming,Thursday,12,13.9915,0,0,8.3681,0.3243
+Ecoopolis,Drone,Clear,Stable,Monday,17,56.7103,1,0,28.3551,0.268
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Sunday,8,39.3072,0,0,55.8341,0.2032
+TechHaven,Autonomous Vehicle,Clear,Recession,Sunday,15,51.9968,0,0,47.2699,0.1381
+Ecoopolis,Flying Car,Rainy,Booming,Sunday,9,49.855,0,0,59.826,0.2619
+MetropolisX,Drone,Snowy,Booming,Sunday,2,48.7723,0,0,29.17,0.438
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Wednesday,17,49.1383,1,0,39.3107,0.1318
+Ecoopolis,Drone,Snowy,Booming,Thursday,5,30.4359,0,0,15.2179,0.1717
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Wednesday,22,74.414,0,0,71.2096,0.076
+SolarisVille,Drone,Clear,Stable,Thursday,3,29.3586,0,0,14.6793,0.504
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,0,73.726,0,0,70.5512,0.0408
+AquaCity,Drone,Solar Flare,Stable,Thursday,5,81.7473,0,0,40.8737,0.853
+SolarisVille,Drone,Snowy,Stable,Saturday,9,55.6681,0,0,27.8341,0.3038
+SolarisVille,Autonomous Vehicle,Clear,Recession,Tuesday,9,114.4907,0,0,91.5925,0.0659
+Ecoopolis,Car,Solar Flare,Recession,Sunday,19,76.4135,0,0,76.4135,0.0435
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Monday,4,78.1655,0,0,74.7995,0.0784
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Saturday,7,50.5852,0,0,48.4069,0.08
+Ecoopolis,Flying Car,Snowy,Booming,Wednesday,9,62.5742,0,0,75.089,0.1938
+SolarisVille,Car,Snowy,Stable,Wednesday,11,37.4104,0,0,37.4104,0.3703
+AquaCity,Drone,Clear,Booming,Thursday,7,46.0197,1,0,23.0099,0.4449
+TechHaven,Autonomous Vehicle,Rainy,Booming,Friday,1,15.631,0,0,14.9579,0.1398
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Saturday,11,101.8972,0,0,97.5093,0.0566
+MetropolisX,Autonomous Vehicle,Clear,Stable,Thursday,17,31.9736,1,0,36.9103,0.4996
+Ecoopolis,Car,Rainy,Stable,Thursday,11,21.3542,0,0,21.3542,0.2178
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Wednesday,6,119.9135,0,0,95.9308,0.3751
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Sunday,16,71.9847,0,0,57.5877,0.1854
+AquaCity,Flying Car,Rainy,Recession,Wednesday,10,20.5213,0,0,24.6256,0.5072
+Ecoopolis,Drone,Snowy,Stable,Monday,10,29.3959,0,0,14.698,0.2152
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Friday,7,29.3167,1,0,21.3212,0.0946
+AquaCity,Autonomous Vehicle,Clear,Stable,Wednesday,8,84.5691,1,0,67.6552,0.3754
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Sunday,13,85.5454,1,0,68.4363,0.53
+AquaCity,Autonomous Vehicle,Snowy,Booming,Thursday,18,59.3801,1,0,52.7823,0.2926
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Saturday,16,24.4429,0,0,19.5543,0.3074
+TechHaven,Autonomous Vehicle,Rainy,Recession,Thursday,7,23.4753,1,0,17.9715,0.1132
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,11,52.7012,0,0,50.4318,0.1219
+SolarisVille,Autonomous Vehicle,Clear,Stable,Monday,21,28.9021,0,0,25.6907,0.4674
+TechHaven,Autonomous Vehicle,Rainy,Recession,Friday,17,63.5333,1,0,48.6379,0.0472
+Neuroburg,Drone,Clear,Booming,Monday,7,83.5435,1,0,37.9743,0.1568
+MetropolisX,Autonomous Vehicle,Clear,Booming,Monday,9,86.6136,0,0,78.7396,0.5902
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,3,36.6212,0,0,35.0442,0.3361
+AquaCity,Autonomous Vehicle,Rainy,Booming,Thursday,9,48.0393,0,0,38.4314,0.6211
+AquaCity,Drone,Snowy,Booming,Tuesday,5,39.8558,0,0,19.9279,0.3391
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,4,52.1203,0,0,49.8759,0.0364
+MetropolisX,Drone,Clear,Recession,Thursday,11,46.0321,0,0,26.1546,0.0963
+MetropolisX,Autonomous Vehicle,Clear,Recession,Tuesday,3,29.6786,0,0,26.9806,0.2242
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Wednesday,7,22.0853,1,0,16.062,0.5234
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Thursday,19,82.6993,0,0,69.6122,0.0619
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Tuesday,18,27.3231,1,0,24.2872,0.1525
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Sunday,15,15.1865,0,0,12.1492,0.3445
+Ecoopolis,Car,Clear,Stable,Thursday,3,49.2207,0,0,49.2207,0.3047
+Ecoopolis,Drone,Snowy,Booming,Friday,11,62.263,0,0,31.1315,0.2152
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Thursday,6,24.5242,0,0,22.2947,0.0723
+Neuroburg,Autonomous Vehicle,Clear,Recession,Friday,13,75.2627,0,0,68.4207,0.0396
+MetropolisX,Drone,Electromagnetic Storm,Stable,Saturday,7,23.5909,0,0,17.2448,1.443
+Ecoopolis,Car,Snowy,Recession,Tuesday,15,45.1912,0,0,45.1912,0.1359
+Ecoopolis,Flying Car,Snowy,Recession,Wednesday,12,22.236,0,0,26.6832,0.086
+SolarisVille,Autonomous Vehicle,Clear,Recession,Friday,13,60.1948,0,0,48.1558,0.0868
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Wednesday,14,31.2117,0,0,24.9693,0.5138
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,10,87.1831,0,0,69.7465,0.1798
+AquaCity,Drone,Rainy,Recession,Wednesday,2,47.6661,0,0,23.833,0.1989
+AquaCity,Drone,Clear,Recession,Wednesday,10,64.8835,0,0,32.4418,0.2019
+TechHaven,Drone,Electromagnetic Storm,Recession,Thursday,19,32.292,0,0,19.3134,0.0525
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,12,80.2777,0,0,76.8208,0.0918
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Tuesday,2,21.7648,0,0,19.7862,0.268
+MetropolisX,Autonomous Vehicle,Clear,Recession,Tuesday,21,50.6871,0,0,46.5447,0.1131
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Tuesday,23,107.3339,0,1,85.8671,0.5063
+Ecoopolis,Drone,Solar Flare,Recession,Wednesday,3,80.8966,0,0,40.4483,0.1371
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Thursday,21,35.9584,0,0,31.963,0.1551
+Neuroburg,Drone,Clear,Booming,Wednesday,15,79.15,0,0,44.9716,0.0669
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Wednesday,3,70.8912,0,0,67.8385,0.2995
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Thursday,13,27.5372,0,0,26.3514,0.3796
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,15,46.6845,0,0,44.6742,0.0674
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Saturday,15,55.7283,0,0,50.6621,0.0707
+SolarisVille,Drone,Snowy,Recession,Sunday,3,33.0649,0,0,16.5324,0.2503
+Ecoopolis,Drone,Electromagnetic Storm,Stable,Wednesday,4,82.5171,0,0,41.2585,0.1827
+Neuroburg,Drone,Snowy,Booming,Saturday,14,90.1797,1,0,43.1482,0.0599
+SolarisVille,Flying Car,Solar Flare,Stable,Wednesday,22,71.7676,0,0,86.1211,0.1518
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Tuesday,9,38.5031,0,0,36.8451,0.1195
+Ecoopolis,Car,Clear,Booming,Wednesday,5,50.1066,0,1,50.1066,0.2421
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,6,101.0072,0,0,80.8057,0.0669
+MetropolisX,Autonomous Vehicle,Clear,Booming,Wednesday,1,64.1693,0,0,58.3357,0.3852
+Ecoopolis,Flying Car,Clear,Booming,Saturday,9,55.2512,0,0,66.3014,0.5108
+AquaCity,Car,Electromagnetic Storm,Booming,Monday,7,23.487,1,0,23.487,1.0253
+SolarisVille,Drone,Snowy,Stable,Saturday,15,20.9538,0,0,10.4769,0.63
+AquaCity,Drone,Clear,Stable,Thursday,10,100.0451,0,0,50.0225,0.3625
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Saturday,4,53.0033,0,0,42.4027,0.1324
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Recession,Wednesday,17,51.129,1,0,40.9032,0.1366
+TechHaven,Autonomous Vehicle,Snowy,Stable,Monday,2,74.6059,0,0,71.3932,0.1334
+TechHaven,Drone,Solar Flare,Booming,Sunday,16,24.1707,0,0,13.7334,0.2631
+MetropolisX,Autonomous Vehicle,Clear,Recession,Sunday,7,108.1593,0,0,98.3266,0.4539
+TechHaven,Autonomous Vehicle,Clear,Booming,Thursday,0,55.5994,0,0,78.9764,0.2028
+AquaCity,Drone,Solar Flare,Stable,Wednesday,7,22.8019,1,0,11.4009,0.4512
+MetropolisX,Drone,Clear,Recession,Thursday,12,47.5225,0,0,42.8594,0.2591
+Neuroburg,Drone,Snowy,Stable,Sunday,16,23.9065,0,0,15.8868,0.0684
+AquaCity,Autonomous Vehicle,Solar Flare,Booming,Friday,0,90.7865,0,0,72.6292,0.5648
+SolarisVille,Car,Snowy,Stable,Wednesday,8,30.9956,1,0,30.9956,0.3896
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Wednesday,17,105.2653,1,0,84.2122,0.0344
+Neuroburg,Drone,Rainy,Booming,Monday,6,19.6598,0,0,11.7582,0.1415
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,0,40.92,0,0,39.1579,0.4504
+SolarisVille,Car,Clear,Booming,Monday,3,92.5,0,0,92.5,0.6043
+SolarisVille,Autonomous Vehicle,Rainy,Booming,Friday,14,107.6398,0,0,86.1118,0.6197
+SolarisVille,Drone,Clear,Stable,Friday,16,73.4014,0,0,36.7007,0.387
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Monday,20,48.2,0,0,42.8444,0.0536
+AquaCity,Car,Snowy,Recession,Thursday,1,43.2326,0,0,43.2326,0.1924
+TechHaven,Drone,Snowy,Booming,Monday,12,73.2885,0,0,43.8329,0.2161
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Wednesday,10,44.9783,0,0,35.9827,0.1337
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Thursday,3,25.2068,0,0,20.1655,0.3179
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Thursday,4,45.3727,0,0,43.4188,0.0723
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Friday,22,86.4,0,0,78.049,0.1389
+AquaCity,Autonomous Vehicle,Snowy,Stable,Tuesday,20,45.0472,0,0,40.0419,0.3455
+Neuroburg,Drone,Snowy,Stable,Thursday,1,48.234,0,0,28.8481,0.0978
+Ecoopolis,Drone,Solar Flare,Stable,Thursday,14,85.1017,0,0,42.5508,0.3351
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Sunday,13,105.6754,1,0,76.8549,0.2655
+TechHaven,Car,Electromagnetic Storm,Recession,Monday,10,102.0654,0,0,122.0878,0.1516
+TechHaven,Autonomous Vehicle,Clear,Recession,Wednesday,10,100.243,0,0,91.13,0.0875
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,12,76.4568,1,0,58.5316,0.1212
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Saturday,4,80.5205,0,0,73.2004,0.161
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Tuesday,10,43.2389,0,0,34.5911,0.1793
+Ecoopolis,Flying Car,Snowy,Stable,Tuesday,6,61.8921,0,0,74.2705,0.3864
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Wednesday,2,67.1771,0,0,64.2843,0.3508
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Friday,13,70.7109,0,0,67.6659,0.0466
+Ecoopolis,Drone,Electromagnetic Storm,Stable,Saturday,18,69.9542,0,0,34.9771,0.2772
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Friday,0,100.1862,0,0,80.1489,0.0978
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Friday,18,79.6339,1,0,61.5795,0.349
+AquaCity,Autonomous Vehicle,Clear,Stable,Sunday,10,88.2421,0,0,78.4374,0.497
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Friday,2,53.0658,0,0,50.7807,0.1187
+SolarisVille,Flying Car,Snowy,Stable,Tuesday,14,50.8566,0,0,61.0279,0.2398
+Ecoopolis,Drone,Clear,Booming,Thursday,9,55.0851,0,0,34.4282,0.1893
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,13,40.5197,0,0,32.4158,0.5141
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Friday,15,103.8543,0,0,83.0834,0.0165
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,16,111.915,0,0,107.0957,0.1466
+AquaCity,Autonomous Vehicle,Rainy,Recession,Wednesday,10,50.3819,0,0,40.3055,0.2854
+AquaCity,Car,Snowy,Booming,Saturday,17,24.2722,0,0,24.2722,0.5608
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Thursday,1,73.485,0,0,66.8046,0.2087
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,17,91.2961,1,0,69.8918,0.0558
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,2,48.8442,0,0,74.1919,0.1198
+MetropolisX,Autonomous Vehicle,Clear,Stable,Thursday,3,85.5838,0,0,77.8034,0.519
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Tuesday,12,49.9632,0,0,39.9705,0.3373
+TechHaven,Autonomous Vehicle,Snowy,Recession,Sunday,21,51.9916,0,0,49.7527,0.1376
+MetropolisX,Drone,Solar Flare,Stable,Tuesday,10,43.743,0,0,30.3771,0.9008
+TechHaven,Autonomous Vehicle,Snowy,Booming,Sunday,1,97.8252,0,0,93.6127,0.3429
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Monday,21,47.0237,0,0,38.4605,0.0429
+SolarisVille,Flying Car,Clear,Recession,Wednesday,5,45.3184,0,0,54.3821,0.1297
+TechHaven,Drone,Snowy,Stable,Tuesday,16,36.5094,0,0,21.8357,0.1323
+AquaCity,Autonomous Vehicle,Snowy,Booming,Thursday,18,69.984,1,0,65.4755,0.4268
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,19,85.1855,0,0,81.5172,0.0811
+AquaCity,Autonomous Vehicle,Snowy,Booming,Sunday,22,45.2286,0,0,36.1828,0.4583
+AquaCity,Flying Car,Snowy,Booming,Wednesday,20,47.713,0,0,57.2556,0.8644
+Neuroburg,Drone,Clear,Stable,Saturday,6,55.4688,0,0,31.5164,0.1555
+Neuroburg,Drone,Rainy,Stable,Friday,22,63.5996,0,0,38.038,0.051
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Wednesday,17,42.2868,1,0,33.8294,0.2082
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Tuesday,1,100.4563,0,0,91.3239,0.2661
+Neuroburg,Drone,Snowy,Booming,Wednesday,10,47.4498,0,0,28.379,0.0947
+SolarisVille,Drone,Electromagnetic Storm,Booming,Friday,5,84.0333,0,0,42.0167,0.5114
+MetropolisX,Drone,Electromagnetic Storm,Booming,Thursday,3,77.089,0,0,46.1059,0.5756
+MetropolisX,Drone,Solar Flare,Booming,Saturday,20,28.6814,0,0,16.2962,0.4457
+Ecoopolis,Car,Clear,Stable,Sunday,3,22.5928,0,0,22.5928,0.4479
+AquaCity,Autonomous Vehicle,Snowy,Stable,Tuesday,21,24.7944,0,0,22.0395,0.6125
+Neuroburg,Car,Electromagnetic Storm,Stable,Thursday,21,36.4326,0,0,43.5797,0.0851
+SolarisVille,Autonomous Vehicle,Rainy,Booming,Tuesday,6,37.6398,0,0,30.1119,0.3308
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Tuesday,2,86.4,0,0,79.3005,0.74
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Monday,11,51.2935,0,0,49.0847,0.1177
+MetropolisX,Drone,Solar Flare,Recession,Tuesday,3,94.7513,0,0,53.836,0.1578
+Neuroburg,Drone,Snowy,Recession,Thursday,12,75.2782,0,0,45.0229,0.0543
+Ecoopolis,Car,Snowy,Booming,Tuesday,14,65.6026,0,1,65.6026,0.2559
+SolarisVille,Autonomous Vehicle,Clear,Booming,Thursday,19,100.3488,0,0,89.199,0.3479
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,3,26.6253,0,0,31.8485,0.1313
+SolarisVille,Drone,Rainy,Recession,Saturday,5,72.9852,0,0,36.4926,0.1316
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,20,30.2389,0,0,24.7323,0.0399
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Tuesday,22,31.2094,0,0,24.9675,0.2241
+AquaCity,Car,Electromagnetic Storm,Recession,Sunday,14,39.8653,1,0,39.8653,0.1738
+TechHaven,Drone,Rainy,Booming,Wednesday,0,45.0627,0,0,42.1115,0.2744
+SolarisVille,Flying Car,Solar Flare,Booming,Tuesday,1,59.4884,0,0,71.3861,0.1891
+SolarisVille,Drone,Solar Flare,Recession,Saturday,12,80.6777,1,0,40.3389,0.0992
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Tuesday,22,45.473,0,0,41.3391,0.2901
+Ecoopolis,Flying Car,Electromagnetic Storm,Recession,Friday,6,55.8839,0,0,67.0607,0.0461
+Ecoopolis,Autonomous Vehicle,Solar Flare,Booming,Friday,7,76.8,1,0,65.7227,0.139
+MetropolisX,Drone,Snowy,Recession,Monday,15,26.254,0,0,15.7021,0.0758
+Neuroburg,Autonomous Vehicle,Clear,Recession,Monday,4,35.3707,0,0,32.1552,0.0247
+MetropolisX,Autonomous Vehicle,Clear,Recession,Sunday,2,66.9705,0,0,60.8823,0.1681
+TechHaven,Autonomous Vehicle,Snowy,Stable,Thursday,1,64.8794,0,0,62.0856,0.1533
+TechHaven,Car,Solar Flare,Recession,Sunday,23,76.6529,0,1,87.1056,0.0515
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Tuesday,8,108.3456,1,0,86.4982,0.4048
+TechHaven,Autonomous Vehicle,Rainy,Recession,Saturday,10,79.8339,0,0,76.3961,0.0217
+Ecoopolis,Autonomous Vehicle,Clear,Recession,Sunday,6,85.567,0,0,68.4536,0.0287
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Thursday,4,27.5052,0,0,25.0048,0.5097
+AquaCity,Autonomous Vehicle,Rainy,Recession,Tuesday,12,87.0936,0,0,69.6749,0.242
+Neuroburg,Drone,Clear,Recession,Saturday,0,23.2522,0,0,13.2115,0.0393
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Tuesday,5,49.7048,0,0,47.5644,0.0335
+AquaCity,Car,Solar Flare,Recession,Saturday,4,39.9838,0,0,39.9838,0.105
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,20,45.1651,0,0,40.0187,0.09
+AquaCity,Drone,Solar Flare,Booming,Monday,23,74.3884,0,0,37.1942,0.4685
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Tuesday,12,22.0087,0,0,17.6069,0.3256
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Tuesday,12,36.4837,0,0,33.167,0.1213
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Friday,1,94.3372,0,1,75.4698,0.0496
+Neuroburg,Drone,Rainy,Booming,Thursday,1,77.3321,0,0,46.2513,0.0614
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Wednesday,0,13.0477,0,1,10.4381,0.0311
+TechHaven,Drone,Solar Flare,Booming,Tuesday,2,40.8466,0,0,23.2083,0.2411
+AquaCity,Drone,Snowy,Stable,Sunday,9,70.6589,0,0,35.3294,0.4539
+AquaCity,Drone,Rainy,Stable,Monday,12,74.3534,0,0,37.1767,0.7162
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,23,84.8242,0,0,81.1715,0.3231
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,21,26.3311,0,0,26.006,0.2227
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Monday,22,16.6047,0,0,13.2837,0.1197
+Neuroburg,Drone,Solar Flare,Recession,Wednesday,10,85.2575,0,0,53.8242,0.0633
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Sunday,16,24.2344,0,0,22.0313,0.2919
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Sunday,21,58.2756,0,0,46.6205,0.4661
+SolarisVille,Drone,Clear,Booming,Thursday,4,96.2996,0,0,48.1498,0.4942
+TechHaven,Flying Car,Snowy,Stable,Monday,21,36.6283,0,0,52.5766,0.2256
+TechHaven,Flying Car,Rainy,Stable,Monday,15,42.534,0,0,61.0536,0.1378
+AquaCity,Autonomous Vehicle,Rainy,Booming,Monday,17,23.3675,1,0,18.694,0.544
+SolarisVille,Autonomous Vehicle,Clear,Stable,Monday,12,104.867,0,0,83.8936,0.262
+SolarisVille,Flying Car,Clear,Stable,Sunday,3,59.727,0,0,71.6724,0.5584
+AquaCity,Drone,Snowy,Recession,Tuesday,23,43.5363,0,0,21.7681,0.2775
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Saturday,23,34.8278,0,0,33.3281,0.3489
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Sunday,9,69.6788,0,0,55.7431,0.2721
+SolarisVille,Drone,Rainy,Stable,Monday,18,32.1799,1,0,16.09,0.5988
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Wednesday,19,48.9957,0,0,43.5517,0.534
+SolarisVille,Drone,Solar Flare,Stable,Sunday,18,35.0688,0,0,17.5344,0.23
+Neuroburg,Drone,Solar Flare,Booming,Saturday,20,50.0042,0,0,28.4115,0.0849
+AquaCity,Flying Car,Solar Flare,Booming,Monday,7,54.8547,1,0,65.8257,0.9246
+TechHaven,Autonomous Vehicle,Clear,Stable,Thursday,12,80.2516,0,0,72.956,0.2818
+TechHaven,Drone,Snowy,Stable,Tuesday,23,74.516,0,0,44.567,0.1316
+TechHaven,Autonomous Vehicle,Snowy,Recession,Sunday,23,78.8377,0,0,75.4428,0.0936
+SolarisVille,Drone,Snowy,Stable,Sunday,15,69.3541,0,0,34.677,0.4672
+TechHaven,Car,Clear,Recession,Sunday,1,37.8122,0,0,42.9684,0.1269
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Tuesday,18,63.4263,1,0,77.8515,0.1125
+MetropolisX,Drone,Clear,Booming,Friday,12,38.8535,0,0,22.0759,0.5226
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Sunday,12,35.751,1,0,28.6008,0.1163
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,16,82.677,0,0,79.1167,0.046
+TechHaven,Drone,Clear,Recession,Saturday,4,63.9885,0,0,36.3571,0.0589
+SolarisVille,Drone,Rainy,Recession,Sunday,7,24.9332,0,0,12.4666,0.2072
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,1,93.1369,0,1,89.1262,0.2313
+TechHaven,Drone,Electromagnetic Storm,Stable,Saturday,22,82.2,0,0,49.1627,0.237
+Neuroburg,Drone,Snowy,Recession,Tuesday,13,66.2213,0,0,39.606,0.025
+AquaCity,Drone,Solar Flare,Stable,Sunday,14,72.2903,1,0,36.1451,0.4797
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Monday,21,39.5336,0,0,32.3344,0.0125
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Saturday,21,82.7408,0,0,87.9753,0.0246
+AquaCity,Drone,Electromagnetic Storm,Recession,Friday,23,45.0555,0,0,22.5278,0.3181
+SolarisVille,Drone,Snowy,Booming,Wednesday,4,79.7898,0,0,39.8949,0.3345
+Neuroburg,Autonomous Vehicle,Clear,Stable,Sunday,22,68.0755,0,0,61.8869,0.0575
+AquaCity,Autonomous Vehicle,Rainy,Stable,Tuesday,6,59.3576,0,0,52.7623,0.4
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,9,41.0824,0,0,39.3133,0.351
+Neuroburg,Autonomous Vehicle,Clear,Booming,Monday,20,131.0251,0,0,101.8066,0.0786
+Neuroburg,Autonomous Vehicle,Clear,Recession,Sunday,4,77.0436,0,0,70.0396,0.0332
+AquaCity,Car,Rainy,Recession,Sunday,8,16.9868,0,0,16.9868,0.1316
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,20,86.0811,0,0,82.3743,0.5726
+SolarisVille,Drone,Clear,Recession,Sunday,2,60.9413,0,0,30.4706,0.0705
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Tuesday,20,32.2171,0,0,28.6374,0.1412
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Saturday,15,65.2443,0,0,62.4348,0.0416
+AquaCity,Car,Solar Flare,Recession,Friday,18,95.04,1,0,118.0425,0.2673
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Saturday,7,25.6042,0,0,23.2765,0.0834
+AquaCity,Drone,Solar Flare,Recession,Thursday,6,115.9123,0,0,57.9562,0.153
+MetropolisX,Autonomous Vehicle,Clear,Stable,Friday,2,121.1582,0,0,110.1438,0.4488
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Wednesday,12,55.5986,0,0,44.4789,0.1217
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Sunday,5,48.5341,0,0,46.4441,0.0611
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Monday,22,91.4058,0,0,73.1246,0.1059
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Sunday,4,96,0,0,88.6149,0.3585
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,19,29.0407,0,0,23.2326,0.0979
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Tuesday,17,60.9777,1,0,74.0976,0.163
+Ecoopolis,Flying Car,Clear,Stable,Tuesday,13,13.4652,0,1,16.1583,0.3351
+TechHaven,Autonomous Vehicle,Clear,Stable,Thursday,13,42.9539,0,0,39.049,0.2622
+MetropolisX,Autonomous Vehicle,Clear,Recession,Sunday,19,107.9318,0,0,98.1198,0.2416
+SolarisVille,Drone,Rainy,Booming,Saturday,15,24.7433,0,0,12.3717,0.4798
+TechHaven,Autonomous Vehicle,Clear,Stable,Saturday,4,103.9273,0,0,94.4794,0.1776
+Neuroburg,Drone,Solar Flare,Recession,Monday,18,17.6807,1,0,8.0367,0.0776
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Friday,20,37.0063,0,0,53.9395,0.2308
+AquaCity,Autonomous Vehicle,Clear,Stable,Sunday,10,108,0,0,100.9043,0.6005
+AquaCity,Autonomous Vehicle,Rainy,Stable,Monday,14,25.4044,0,0,20.3236,0.4412
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,5,74.7694,0,0,59.8155,0.1667
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Friday,14,42.4345,0,0,33.9476,0.2817
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Tuesday,15,121.0211,0,0,110.0192,0.4672
+MetropolisX,Drone,Electromagnetic Storm,Recession,Tuesday,17,90.3702,1,0,43.2394,0.292
+Neuroburg,Autonomous Vehicle,Clear,Recession,Tuesday,20,47.7293,0,0,37.0857,0.0244
+MetropolisX,Drone,Snowy,Recession,Monday,23,42.1802,0,0,25.2274,0.2214
+TechHaven,Car,Solar Flare,Stable,Sunday,4,79.0731,0,0,89.8558,0.194
+Ecoopolis,Drone,Electromagnetic Storm,Booming,Monday,18,28.7492,1,0,17.9682,0.1675
+SolarisVille,Flying Car,Electromagnetic Storm,Stable,Monday,8,76.2449,1,1,91.4939,0.4666
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,5,32.9549,0,0,43.7998,0.1835
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Monday,21,42.121,0,0,64.6259,0.2936
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,14,35.325,0,0,28.26,0.3853
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Sunday,9,36.5482,0,0,33.2257,0.3025
+AquaCity,Autonomous Vehicle,Snowy,Stable,Tuesday,15,12.4876,0,0,11.1001,0.5958
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Friday,11,102.2084,0,0,97.8071,0.0591
+TechHaven,Autonomous Vehicle,Clear,Recession,Saturday,20,31.1194,0,0,28.2903,0.0984
+AquaCity,Autonomous Vehicle,Rainy,Booming,Thursday,0,77.9932,0,0,62.3946,0.4784
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Wednesday,7,38.0112,1,0,30.409,0.1058
+TechHaven,Autonomous Vehicle,Rainy,Booming,Monday,21,48.1963,0,0,42.7045,0.2918
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,2,77.8603,0,0,74.5074,0.4754
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,7,62.6683,0,0,59.9697,0.4186
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Tuesday,21,34.3949,0,0,33.9703,0.1028
+SolarisVille,Drone,Rainy,Stable,Thursday,6,17.6542,0,0,8.8271,0.2178
+Ecoopolis,Drone,Rainy,Booming,Sunday,13,47.5229,1,0,23.7615,0.2751
+AquaCity,Car,Solar Flare,Recession,Saturday,22,89.8658,0,0,89.8658,0.1947
+Ecoopolis,Flying Car,Solar Flare,Booming,Friday,16,44.9837,0,0,53.9805,0.3484
+SolarisVille,Drone,Electromagnetic Storm,Stable,Friday,9,34.4454,0,0,17.2227,0.5495
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Thursday,21,40.5846,0,0,39.2293,0.1044
+Neuroburg,Autonomous Vehicle,Clear,Stable,Saturday,0,46.1972,0,0,41.9975,0.0891
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Tuesday,7,102.7191,1,0,78.6367,0.2092
+SolarisVille,Drone,Clear,Recession,Thursday,22,59.5148,0,0,29.7574,0.1227
+MetropolisX,Autonomous Vehicle,Clear,Stable,Wednesday,12,44.855,0,0,49.8389,1.0567
+MetropolisX,Flying Car,Electromagnetic Storm,Booming,Sunday,10,75.0607,0,0,107.7427,0.4308
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Friday,21,120.2239,0,0,109.2563,0.0296
+AquaCity,Car,Snowy,Stable,Thursday,0,52.958,0,0,52.958,0.3828
+Ecoopolis,Drone,Solar Flare,Booming,Monday,8,76.8,1,0,46.8953,0.1679
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Tuesday,3,61.209,0,0,99.3652,0.4327
+Neuroburg,Drone,Snowy,Recession,Saturday,23,94.7919,0,0,56.6937,0.0514
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Tuesday,5,32.5357,0,0,26.0285,0.1501
+TechHaven,Autonomous Vehicle,Snowy,Recession,Monday,14,86.6619,0,0,82.9301,0.0677
+MetropolisX,Flying Car,Snowy,Recession,Sunday,18,64.7004,0,0,92.8714,0.2267
+AquaCity,Drone,Solar Flare,Recession,Friday,10,94.7866,0,0,47.3933,0.1329
+TechHaven,Drone,Snowy,Recession,Monday,23,27.9956,0,0,16.7438,0.0278
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,23,92.3094,0,0,73.8475,0.0912
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Tuesday,7,126.72,1,0,92.7399,0.1135
+TechHaven,Drone,Electromagnetic Storm,Recession,Sunday,19,34.0603,0,0,20.371,0.0947
+SolarisVille,Autonomous Vehicle,Clear,Stable,Sunday,4,68.4217,0,0,54.7373,0.3665
+TechHaven,Autonomous Vehicle,Rainy,Stable,Wednesday,18,33.0243,1,0,23.409,0.1803
+Ecoopolis,Flying Car,Rainy,Recession,Sunday,10,55.0922,0,0,66.1106,0.0918
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,12,43.8131,0,0,41.9264,0.4193
+MetropolisX,Autonomous Vehicle,Clear,Stable,Friday,3,65.0718,0,0,72.3019,1.2555
+AquaCity,Autonomous Vehicle,Rainy,Booming,Friday,0,81.127,0,0,64.9016,0.5581
+TechHaven,Autonomous Vehicle,Clear,Stable,Friday,11,78.6003,0,0,71.4548,0.1698
+AquaCity,Autonomous Vehicle,Snowy,Booming,Wednesday,8,12.795,1,0,10.236,0.5509
+TechHaven,Flying Car,Electromagnetic Storm,Recession,Monday,9,69.9213,0,0,100.3656,0.1529
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,0,20.3459,0,0,16.2767,0.0625
+AquaCity,Car,Snowy,Stable,Monday,21,33.0283,0,0,33.0283,0.8147
+TechHaven,Autonomous Vehicle,Snowy,Stable,Monday,16,38.4696,0,0,36.813,0.2522
+SolarisVille,Flying Car,Snowy,Recession,Sunday,7,16.65,0,0,19.98,0.0912
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,1,120,0,0,101.3209,0.6571
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Thursday,16,80.0805,0,0,64.0644,0.1338
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Friday,14,77.7863,0,0,74.4367,0.5781
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Tuesday,5,51.2807,0,0,41.0245,0.2439
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Saturday,6,37.5894,0,0,35.9707,0.1733
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,5,39.0845,0,0,37.4015,0.1629
+MetropolisX,Drone,Electromagnetic Storm,Stable,Monday,15,28.7269,0,0,17.1811,0.5089
+Ecoopolis,Car,Rainy,Recession,Wednesday,17,76.032,1,0,96.2264,0.0702
+AquaCity,Car,Solar Flare,Recession,Tuesday,0,118.6199,0,0,118.6199,0.1719
+AquaCity,Car,Clear,Recession,Thursday,23,84.5979,0,0,84.5979,0.3466
+SolarisVille,Autonomous Vehicle,Clear,Stable,Thursday,21,54.364,0,0,48.3236,0.3087
+MetropolisX,Car,Solar Flare,Recession,Sunday,18,72.8401,0,1,82.7729,0.2201
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,0,106.0869,0,0,101.5186,0.1909
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Thursday,1,47.0557,0,0,37.6446,0.2598
+SolarisVille,Drone,Rainy,Booming,Saturday,10,108,0,0,59.4816,0.3497
+SolarisVille,Drone,Solar Flare,Stable,Saturday,1,90.8151,0,0,45.4076,0.1828
+Neuroburg,Drone,Solar Flare,Stable,Tuesday,1,31.082,0,0,17.6602,0.0856
+SolarisVille,Drone,Snowy,Recession,Tuesday,12,78.8024,0,1,39.4012,0.2888
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,21,22.478,0,1,19.9167,0.1004
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Thursday,10,31.7783,0,0,30.4099,0.081
+Neuroburg,Drone,Rainy,Booming,Saturday,23,55.1374,0,0,41.2212,0.0513
+AquaCity,Autonomous Vehicle,Rainy,Booming,Friday,12,57.2158,0,1,45.7726,0.4169
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,5,99.7356,0,0,88.6538,0.2959
+AquaCity,Autonomous Vehicle,Snowy,Stable,Monday,18,44.2576,1,0,39.3401,0.2905
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,4,44.5448,0,0,42.6266,0.1671
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Wednesday,14,69.6819,0,0,55.7455,0.1663
+Ecoopolis,Drone,Snowy,Recession,Friday,14,29.3197,0,0,14.6598,0.0352
+SolarisVille,Drone,Clear,Stable,Saturday,6,62.2206,0,0,31.1103,0.5055
+SolarisVille,Flying Car,Rainy,Booming,Thursday,10,60.0376,0,0,72.0452,0.2975
+SolarisVille,Drone,Snowy,Booming,Wednesday,4,78.1907,0,0,48.8692,0.2635
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Saturday,13,126.72,1,0,122.2573,0.535
+SolarisVille,Drone,Rainy,Recession,Wednesday,2,87.808,0,0,43.904,0.1519
+AquaCity,Drone,Rainy,Recession,Wednesday,23,77.7913,0,0,38.8957,0.2105
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Thursday,1,86.4,0,0,105.1879,0.1579
+SolarisVille,Autonomous Vehicle,Clear,Booming,Friday,0,94.3839,0,0,75.5071,0.3563
+AquaCity,Car,Snowy,Stable,Thursday,19,54.1039,0,0,54.1039,0.446
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Monday,20,126.7644,0,0,112.7304,0.082
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Sunday,17,96,0,0,85.6053,0.1689
+MetropolisX,Drone,Electromagnetic Storm,Stable,Tuesday,13,21.6665,0,0,12.9584,0.5809
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Friday,17,40.1071,1,0,32.0857,0.2147
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Thursday,6,101.5951,0,0,92.3592,0.548
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Sunday,1,78.0552,0,0,62.4442,0.1453
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Saturday,14,39.4781,1,0,30.2225,0.0502
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Friday,16,51.0785,0,0,40.8628,0.0989
+SolarisVille,Flying Car,Electromagnetic Storm,Booming,Tuesday,22,65.5487,0,0,78.6584,0.5827
+Ecoopolis,Car,Electromagnetic Storm,Recession,Monday,18,84.48,1,0,96.1746,0.2119
+MetropolisX,Drone,Clear,Recession,Friday,6,45.8573,0,0,26.0553,0.4327
+TechHaven,Autonomous Vehicle,Snowy,Booming,Saturday,9,89.5201,0,0,85.6652,0.1877
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Monday,18,22.5773,1,0,20.0687,0.0423
+SolarisVille,Drone,Rainy,Booming,Monday,20,23.0219,0,0,11.5109,0.3844
+SolarisVille,Drone,Snowy,Booming,Saturday,3,32.1513,0,0,16.0756,0.5949
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,19,19.2853,0,0,18.4548,0.2273
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Saturday,11,63.4762,0,0,50.781,0.7622
+Neuroburg,Autonomous Vehicle,Clear,Booming,Tuesday,22,87.9146,0,0,79.9224,0.0782
+Ecoopolis,Flying Car,Electromagnetic Storm,Booming,Monday,13,20.3689,0,0,24.4426,0.1424
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,12,67.2048,0,0,59.7376,0.1015
+TechHaven,Autonomous Vehicle,Clear,Stable,Sunday,19,21.5668,0,1,19.6062,0.2476
+Neuroburg,Drone,Clear,Booming,Friday,8,28.3414,1,0,12.8825,0.1355
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,6,67.1775,0,0,53.742,0.2924
+Neuroburg,Autonomous Vehicle,Clear,Recession,Saturday,11,59.4734,0,0,54.0667,0.0186
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Sunday,22,69.2197,0,0,58.2902,0.7108
+AquaCity,Flying Car,Snowy,Booming,Thursday,15,49.7957,0,0,59.7548,0.4355
+Neuroburg,Drone,Electromagnetic Storm,Stable,Thursday,20,70.5492,0,0,42.1945,0.0608
+Neuroburg,Drone,Electromagnetic Storm,Booming,Wednesday,22,17.0304,0,0,10.1856,0.1117
+TechHaven,Autonomous Vehicle,Rainy,Booming,Monday,18,107.2621,1,0,88.6259,0.1539
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,22,88.2352,0,0,84.4356,0.0386
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Sunday,13,31.7526,1,0,24.3082,0.0603
+TechHaven,Autonomous Vehicle,Clear,Booming,Sunday,10,58.0625,0,0,52.7841,0.3512
+SolarisVille,Car,Clear,Stable,Friday,19,14.5045,0,0,14.5045,0.443
+AquaCity,Autonomous Vehicle,Rainy,Booming,Tuesday,1,88.0612,0,0,70.449,0.5005
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Friday,6,28.8886,0,1,26.2623,0.1072
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Monday,1,85.0738,0,0,81.4104,0.251
+AquaCity,Drone,Rainy,Stable,Wednesday,1,82.2282,0,0,41.1141,0.8239
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,20,82.0147,0,0,72.6694,0.1704
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Monday,11,58.6958,0,0,56.1682,0.0623
+SolarisVille,Drone,Snowy,Recession,Monday,21,55.594,0,0,27.797,0.2017
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,5,69.6725,0,0,66.6723,0.2899
+Neuroburg,Autonomous Vehicle,Clear,Stable,Thursday,20,33.5559,0,0,26.073,0.0955
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Thursday,5,55.1322,0,0,44.1058,0.2146
+Ecoopolis,Autonomous Vehicle,Solar Flare,Booming,Sunday,6,83.0903,0,0,66.4722,0.214
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Saturday,18,40.6749,0,0,36.9772,0.049
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Monday,12,90.9692,0,0,72.7753,0.0767
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Saturday,22,74.9224,0,0,59.9379,0.1289
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Friday,12,77.2247,0,0,61.7798,0.2064
+AquaCity,Drone,Rainy,Recession,Thursday,4,67.1226,0,0,33.5613,0.3712
+AquaCity,Car,Snowy,Recession,Wednesday,21,46.0903,0,0,46.0903,0.4043
+SolarisVille,Drone,Solar Flare,Booming,Monday,6,22.5535,0,0,11.2767,0.1622
+TechHaven,Autonomous Vehicle,Snowy,Stable,Wednesday,13,30.9488,0,0,29.616,0.2732
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,19,27.9251,0,0,24.8223,0.3908
+Ecoopolis,Drone,Electromagnetic Storm,Stable,Friday,12,31.2788,0,0,15.6394,0.2078
+Ecoopolis,Drone,Clear,Booming,Friday,15,61.6641,0,0,30.832,0.3045
+TechHaven,Autonomous Vehicle,Snowy,Booming,Tuesday,15,82.8212,0,0,79.2547,0.2045
+SolarisVille,Flying Car,Clear,Stable,Wednesday,4,59.459,0,0,71.3508,0.3907
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Saturday,13,38.9329,1,0,31.1463,0.0643
+Ecoopolis,Flying Car,Electromagnetic Storm,Booming,Tuesday,4,71.1088,0,0,85.3306,0.3992
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,16,68.0721,0,0,54.4577,0.3458
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Tuesday,22,113.2915,0,1,102.9922,0.3978
+AquaCity,Autonomous Vehicle,Clear,Stable,Tuesday,0,95.2191,0,0,76.1753,0.5586
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,15,73.6297,0,0,78.2878,0.0135
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,12,74.8587,0,0,71.6352,0.5452
+Ecoopolis,Drone,Rainy,Stable,Monday,16,63.1474,0,0,31.5737,0.2499
+MetropolisX,Drone,Snowy,Recession,Tuesday,16,49.9521,0,0,29.8757,0.2833
+AquaCity,Autonomous Vehicle,Snowy,Stable,Tuesday,6,80.0469,0,0,64.0375,0.4518
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Thursday,21,64.9828,0,0,57.7625,0.1849
+AquaCity,Drone,Snowy,Booming,Friday,2,82.5839,0,0,41.2919,0.5915
+TechHaven,Autonomous Vehicle,Clear,Booming,Wednesday,20,49.1042,0,0,41.3335,0.2699
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Tuesday,13,32.0351,0,0,30.6556,0.1017
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Thursday,4,26.0027,0,0,23.6388,0.0369
+Neuroburg,Autonomous Vehicle,Clear,Booming,Wednesday,18,24.3868,1,0,15.1588,0.1254
+Neuroburg,Drone,Rainy,Booming,Wednesday,9,83.7989,0,0,50.119,0.0477
+SolarisVille,Flying Car,Rainy,Stable,Tuesday,6,45.243,0,0,54.2916,0.4482
+AquaCity,Autonomous Vehicle,Rainy,Stable,Monday,9,58.8832,0,0,47.1065,0.4298
+MetropolisX,Drone,Clear,Recession,Friday,23,24.8237,0,0,14.1044,0.2253
+Neuroburg,Drone,Clear,Booming,Sunday,4,18.5023,0,0,13.1408,0.0921
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Monday,16,73.3394,0,0,66.6722,0.0757
+SolarisVille,Autonomous Vehicle,Clear,Recession,Wednesday,18,95.04,1,0,93.4245,0.1898
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Friday,19,84.1475,0,0,68.8239,0.0378
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Monday,3,49.2699,0,0,39.4159,0.1932
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Monday,7,69.12,1,0,81.0563,0.3323
+Ecoopolis,Drone,Solar Flare,Recession,Sunday,6,100.5342,0,0,50.2671,0.1687
+AquaCity,Drone,Clear,Booming,Saturday,16,59.6976,0,0,29.8488,0.6011
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Tuesday,5,123.12,0,0,120.9492,0.7662
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Wednesday,7,48.7971,1,0,41.0923,0.6337
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Sunday,0,37.1267,0,0,35.5279,0.0922
+TechHaven,Autonomous Vehicle,Snowy,Recession,Sunday,15,39.7251,0,0,38.0144,0.0741
+Ecoopolis,Flying Car,Rainy,Recession,Tuesday,18,49.1627,1,0,58.9953,0.1209
+Neuroburg,Autonomous Vehicle,Clear,Booming,Saturday,15,58.4292,0,0,53.1175,0.091
+SolarisVille,Autonomous Vehicle,Clear,Booming,Tuesday,4,87.0779,0,0,69.6623,0.2617
+SolarisVille,Drone,Clear,Booming,Tuesday,6,48.6383,0,0,24.3191,0.4594
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Sunday,23,49.6192,0,0,47.4825,0.0088
+Ecoopolis,Drone,Clear,Recession,Tuesday,10,50.3755,0,0,27.9864,0.0292
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,13,58.7719,0,0,56.241,0.0165
+SolarisVille,Autonomous Vehicle,Clear,Booming,Monday,7,75.799,1,0,75.799,0.2671
+MetropolisX,Autonomous Vehicle,Clear,Stable,Wednesday,6,112.6307,0,0,102.3916,0.6777
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Thursday,21,85.7657,0,0,82.9014,0.2246
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Saturday,11,83.7963,0,0,67.037,0.2501
+TechHaven,Drone,Solar Flare,Stable,Tuesday,13,100.9597,0,0,57.3635,0.399
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,10,59.0899,0,1,47.2719,0.4302
+SolarisVille,Flying Car,Solar Flare,Stable,Friday,5,46.2834,0,0,55.5401,0.196
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,23,95.6274,0,0,91.5095,0.0341
+Neuroburg,Autonomous Vehicle,Clear,Stable,Wednesday,12,98.4012,0,0,89.4556,0.0747
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Sunday,5,101.4933,0,0,81.1946,0.2174
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,4,27.4235,0,0,26.2425,0.2789
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Thursday,0,83.5413,0,0,66.833,0.145
+AquaCity,Autonomous Vehicle,Clear,Booming,Sunday,20,75.4605,0,0,60.3684,0.701
+Ecoopolis,Drone,Solar Flare,Stable,Thursday,20,61.812,0,0,30.906,0.1592
+MetropolisX,Flying Car,Rainy,Recession,Friday,15,18.9569,0,0,43.1919,0.1688
+Ecoopolis,Drone,Clear,Recession,Saturday,7,28.6118,0,0,14.3059,0.0954
+SolarisVille,Drone,Snowy,Stable,Tuesday,22,57.7186,0,0,28.8593,0.5278
+SolarisVille,Car,Electromagnetic Storm,Recession,Sunday,15,61.5065,0,0,61.5065,0.0621
+TechHaven,Autonomous Vehicle,Clear,Stable,Saturday,22,60.7704,0,0,55.2458,0.275
+SolarisVille,Car,Snowy,Booming,Wednesday,23,58.1861,0,0,58.1861,0.3226
+AquaCity,Drone,Solar Flare,Recession,Friday,9,99.3145,0,0,49.6572,0.1955
+SolarisVille,Flying Car,Solar Flare,Booming,Friday,12,90.5854,0,0,108.7025,0.2705
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,15,63.6999,0,0,50.9599,0.3931
+TechHaven,Autonomous Vehicle,Rainy,Booming,Thursday,1,47.7885,0,0,45.7306,0.2564
+AquaCity,Autonomous Vehicle,Rainy,Booming,Tuesday,13,22.5488,0,0,18.0391,0.7479
+Neuroburg,Drone,Snowy,Booming,Saturday,16,25.7566,0,0,15.4047,0.0608
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Wednesday,7,83.7833,1,0,60.9333,0.26
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Monday,18,40.9675,1,0,36.4155,0.1414
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Thursday,4,93.1265,0,0,89.1163,0.4576
+AquaCity,Car,Rainy,Stable,Wednesday,13,58.7408,0,0,58.7408,0.5927
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Friday,19,88.3812,0,0,74.3949,0.3221
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Thursday,18,79.751,1,0,58.5866,0.075
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Saturday,5,32.8286,0,0,31.4149,0.55
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,3,91.9555,0,0,87.9957,0.1768
+MetropolisX,Flying Car,Snowy,Stable,Sunday,17,40.145,0,0,57.6244,0.4343
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Tuesday,17,79.3396,1,0,57.7015,0.6218
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Wednesday,16,30.1811,0,0,24.1448,0.0748
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Saturday,14,30.0441,1,0,21.8502,0.0631
+SolarisVille,Drone,Snowy,Booming,Saturday,8,92.9419,0,0,46.471,0.365
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Saturday,9,62.6685,0,0,59.9698,0.0757
+SolarisVille,Drone,Rainy,Booming,Saturday,5,108,0,0,56.4163,0.336
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,23,80.1772,0,0,64.1417,0.5793
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Monday,7,31.7599,1,0,25.4079,0.1004
+SolarisVille,Autonomous Vehicle,Rainy,Booming,Wednesday,9,45.8558,0,0,36.6846,0.3026
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,22,94.1329,0,0,90.0794,0.3917
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Monday,0,61.4179,0,1,58.7731,0.0135
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Wednesday,0,37.1631,0,0,33.7846,0.03
+Ecoopolis,Autonomous Vehicle,Solar Flare,Booming,Thursday,10,96,0,0,77.4605,0.3696
+SolarisVille,Drone,Electromagnetic Storm,Booming,Thursday,13,39.101,0,1,24.4381,0.641
+TechHaven,Drone,Solar Flare,Stable,Tuesday,0,28.5482,0,0,16.2206,0.3137
+TechHaven,Drone,Snowy,Booming,Monday,7,20.4714,1,0,9.7949,0.365
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,8,49.4396,1,1,39.5517,0.6088
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Saturday,4,37.2691,0,0,56.6099,0.0812
+TechHaven,Autonomous Vehicle,Rainy,Booming,Tuesday,17,99.3168,1,1,78.0585,0.3193
+SolarisVille,Autonomous Vehicle,Rainy,Recession,Friday,3,46.3932,0,0,37.1146,0.0992
+Ecoopolis,Drone,Snowy,Recession,Wednesday,20,95.04,0,0,52.8946,0.11
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Sunday,11,95.07,0,0,86.4273,0.0649
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Thursday,5,22.4463,0,0,21.4797,0.4741
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Monday,6,101.8815,0,0,81.5052,0.0291
+MetropolisX,Flying Car,Electromagnetic Storm,Recession,Saturday,16,99.9506,0,0,143.4697,0.153
+Neuroburg,Drone,Snowy,Recession,Friday,13,67.4706,0,0,40.3532,0.0324
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Saturday,14,96,1,0,86.3546,0.1841
+Neuroburg,Autonomous Vehicle,Clear,Stable,Monday,12,19.5533,0,0,17.7757,0.118
+AquaCity,Autonomous Vehicle,Snowy,Recession,Sunday,1,70.1042,0,0,56.0833,0.2025
+MetropolisX,Drone,Clear,Booming,Saturday,16,24.0675,0,0,13.6747,0.5924
+AquaCity,Flying Car,Snowy,Stable,Thursday,18,56.927,1,0,68.3124,0.6885
+AquaCity,Drone,Solar Flare,Booming,Tuesday,3,59.9125,0,0,29.9562,0.3963
+Neuroburg,Drone,Rainy,Stable,Friday,0,86.237,0,0,51.5772,0.1527
+AquaCity,Flying Car,Electromagnetic Storm,Booming,Saturday,22,89.9284,0,0,107.9141,0.7266
+AquaCity,Car,Snowy,Booming,Monday,13,29.8214,0,0,29.8214,0.4477
+MetropolisX,Autonomous Vehicle,Clear,Recession,Monday,19,42.6518,0,0,39.166,0.129
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Thursday,17,108.3456,1,0,102.723,0.4239
+AquaCity,Drone,Rainy,Stable,Sunday,1,70.0955,0,0,35.0478,0.4543
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Saturday,2,31.5397,0,0,25.2317,0.049
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,21,26.505,0,0,23.56,0.8426
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Monday,16,18.0488,0,0,17.2716,0.0786
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Friday,1,73.7209,0,0,67.019,0.1027
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Tuesday,22,78.6788,0,0,75.2907,0.0563
+MetropolisX,Drone,Rainy,Booming,Wednesday,19,64.6564,0,0,38.6701,0.3906
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Wednesday,7,76.8,1,0,92.33,0.2169
+AquaCity,Flying Car,Snowy,Recession,Thursday,3,34.814,0,0,41.7767,0.2898
+TechHaven,Autonomous Vehicle,Rainy,Booming,Friday,22,33.4716,0,0,32.0302,0.1389
+Ecoopolis,Flying Car,Rainy,Recession,Tuesday,0,31.4348,0,0,37.7217,0.1373
+TechHaven,Autonomous Vehicle,Clear,Stable,Sunday,16,37.5228,0,0,47.3773,0.3264
+TechHaven,Autonomous Vehicle,Snowy,Stable,Friday,22,24.6527,0,0,23.5911,0.2262
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,1,96,0,0,79.255,0.2564
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Tuesday,6,25.7141,0,0,21.654,0.7578
+MetropolisX,Autonomous Vehicle,Clear,Recession,Saturday,21,50.4524,0,1,45.8659,0.2815
+AquaCity,Flying Car,Rainy,Recession,Monday,6,20.8532,0,0,25.0238,0.2009
+AquaCity,Autonomous Vehicle,Snowy,Booming,Friday,5,36.0918,0,0,28.8735,0.6387
+Ecoopolis,Drone,Solar Flare,Recession,Sunday,16,84.9403,0,0,42.4701,0.1291
+SolarisVille,Car,Snowy,Recession,Tuesday,20,74.9294,0,1,74.9294,0.2532
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Sunday,13,60.5064,1,0,44.0047,0.0747
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Tuesday,18,84.6676,1,0,75.2601,0.0749
+AquaCity,Autonomous Vehicle,Clear,Recession,Thursday,7,72.2919,1,0,57.8336,0.0762
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Wednesday,13,50.661,0,0,48.4794,0.0761
+AquaCity,Drone,Electromagnetic Storm,Booming,Friday,23,74.9041,0,0,37.452,0.4195
+Ecoopolis,Autonomous Vehicle,Solar Flare,Booming,Tuesday,0,73.3784,0,0,58.7027,0.1368
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,17,76.8,1,1,77.7915,0.2635
+AquaCity,Drone,Snowy,Recession,Tuesday,5,44.4356,0,0,24.6864,0.1968
+SolarisVille,Autonomous Vehicle,Clear,Booming,Thursday,0,62.3769,0,0,62.3769,0.2215
+SolarisVille,Drone,Electromagnetic Storm,Booming,Sunday,10,22.6106,0,0,11.3053,0.6001
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Saturday,3,67.0283,0,0,53.6226,0.1029
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Tuesday,8,53.9885,1,0,43.1908,0.1783
+Ecoopolis,Drone,Solar Flare,Stable,Wednesday,14,82.8927,0,0,41.4464,0.1754
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,18,43.5285,1,0,38.692,0.3555
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Friday,15,52.027,0,1,47.2973,0.0957
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Tuesday,14,21.4969,0,0,17.1975,0.1972
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Monday,3,73.6821,0,0,66.9837,0.326
+AquaCity,Autonomous Vehicle,Rainy,Booming,Friday,2,22.6316,0,0,18.1053,0.3143
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Wednesday,16,23.0469,0,0,18.4375,0.0785
+AquaCity,Drone,Electromagnetic Storm,Stable,Wednesday,12,108,0,0,54.693,0.8672
+AquaCity,Autonomous Vehicle,Rainy,Recession,Saturday,0,60.6963,0,0,48.557,0.2688
+Ecoopolis,Car,Electromagnetic Storm,Booming,Thursday,5,40.1478,0,0,40.1478,0.4165
+Ecoopolis,Drone,Electromagnetic Storm,Stable,Sunday,9,92.4125,0,0,46.2062,0.2277
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,20,66.876,0,0,63.9962,0.0489
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Sunday,0,48.884,0,0,46.7789,0.0911
+SolarisVille,Autonomous Vehicle,Clear,Booming,Tuesday,7,37.7632,1,0,30.2106,0.476
+TechHaven,Autonomous Vehicle,Clear,Booming,Wednesday,10,42.7866,0,0,38.8969,0.2468
+TechHaven,Autonomous Vehicle,Clear,Stable,Wednesday,1,60.7862,0,0,55.2601,0.182
+Ecoopolis,Drone,Electromagnetic Storm,Booming,Wednesday,12,63.6324,0,0,31.8162,0.1224
+TechHaven,Autonomous Vehicle,Clear,Recession,Wednesday,0,51.6415,0,0,46.9468,0.1217
+TechHaven,Autonomous Vehicle,Snowy,Booming,Tuesday,19,39.0308,0,0,34.5833,0.2238
+AquaCity,Autonomous Vehicle,Clear,Recession,Thursday,21,94.5471,0,0,84.0419,0.1456
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Wednesday,1,48.2568,0,1,38.6054,0.3814
+AquaCity,Autonomous Vehicle,Clear,Booming,Tuesday,5,104.8851,0,0,83.9081,0.4031
+TechHaven,Autonomous Vehicle,Rainy,Stable,Wednesday,17,25.2732,1,0,19.3479,0.159
+SolarisVille,Car,Snowy,Stable,Wednesday,0,46.4375,0,0,46.4375,0.5104
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Thursday,3,70.2097,0,0,67.1863,0.0639
+TechHaven,Autonomous Vehicle,Clear,Booming,Thursday,21,23.5571,0,0,19.8292,0.2152
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,5,54.0167,0,0,43.2134,0.1426
+Ecoopolis,Car,Solar Flare,Booming,Thursday,20,25.6293,0,0,25.6293,0.2568
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Wednesday,11,106.9114,0,0,85.5291,0.0963
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Monday,13,73.4874,0,0,65.3221,0.113
+SolarisVille,Car,Clear,Recession,Thursday,22,80.6643,0,0,80.6643,0.0918
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Tuesday,1,52.1815,0,0,47.4377,0.3293
+Neuroburg,Drone,Solar Flare,Booming,Sunday,14,61.3215,1,0,27.8734,0.1125
+SolarisVille,Autonomous Vehicle,Clear,Recession,Monday,0,67.5273,0,0,54.0218,0.1945
+Neuroburg,Autonomous Vehicle,Clear,Booming,Saturday,14,59.3203,1,0,43.142,0.1936
+MetropolisX,Drone,Rainy,Stable,Friday,8,45.3443,1,0,21.6958,0.6268
+MetropolisX,Autonomous Vehicle,Clear,Stable,Wednesday,6,29.7711,0,0,27.0647,0.4715
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,0,25.8869,0,0,20.7095,0.3937
+TechHaven,Drone,Rainy,Recession,Sunday,10,64.2561,0,0,38.4307,0.0338
+SolarisVille,Autonomous Vehicle,Clear,Recession,Tuesday,23,90.3621,0,0,72.2896,0.1192
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Thursday,21,20.1647,0,0,22.4052,0.2251
+Ecoopolis,Car,Snowy,Recession,Wednesday,14,71.9363,0,0,71.9363,0.0414
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,10,71.7561,0,0,57.4048,0.2963
+SolarisVille,Car,Clear,Recession,Tuesday,8,77.1581,1,0,85.7312,0.2377
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Saturday,19,67.4387,0,0,53.951,0.2777
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Monday,12,39.1941,0,0,31.3553,0.4198
+Ecoopolis,Drone,Solar Flare,Recession,Saturday,22,60.0833,0,0,30.0416,0.1448
+TechHaven,Autonomous Vehicle,Clear,Recession,Tuesday,7,64.9458,1,0,47.2333,0.1158
+SolarisVille,Drone,Clear,Recession,Thursday,9,77.7016,0,0,38.8508,0.2043
+TechHaven,Autonomous Vehicle,Snowy,Booming,Thursday,20,79.9949,0,0,70.8798,0.2314
+SolarisVille,Flying Car,Snowy,Stable,Thursday,6,27.3093,0,0,32.7711,0.5052
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Wednesday,7,54.0391,1,0,43.2313,0.0897
+AquaCity,Autonomous Vehicle,Snowy,Booming,Thursday,3,37.8972,0,0,30.3178,0.3608
+MetropolisX,Flying Car,Electromagnetic Storm,Stable,Sunday,12,33.901,1,1,38.9294,0.5325
+SolarisVille,Drone,Solar Flare,Booming,Wednesday,21,43.5756,0,0,21.7878,0.1842
+AquaCity,Drone,Clear,Stable,Saturday,15,82.7591,0,0,45.9773,0.584
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Monday,8,69.7385,1,0,53.3884,0.0861
+TechHaven,Autonomous Vehicle,Clear,Recession,Wednesday,5,50.0011,0,0,45.4555,0.1842
+Ecoopolis,Car,Solar Flare,Recession,Tuesday,3,92.343,0,0,92.343,0.2043
+Ecoopolis,Drone,Solar Flare,Stable,Tuesday,21,96,0,0,52.6276,0.1901
+TechHaven,Autonomous Vehicle,Snowy,Recession,Wednesday,15,64.6541,0,0,61.87,0.0501
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Saturday,5,106.5206,0,0,96.8369,0.2041
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Tuesday,5,17.1893,0,0,16.4491,0.0322
+MetropolisX,Flying Car,Snowy,Stable,Wednesday,19,67.6831,0,0,97.1528,0.5922
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Tuesday,11,54.7245,0,0,52.3679,0.3954
+SolarisVille,Drone,Rainy,Stable,Saturday,20,101.9839,0,0,50.9919,0.2869
+TechHaven,Autonomous Vehicle,Snowy,Booming,Saturday,1,98.2635,0,0,94.0321,0.1937
+SolarisVille,Drone,Snowy,Booming,Saturday,23,69.8698,0,0,34.9349,0.4712
+MetropolisX,Drone,Snowy,Stable,Monday,2,53.3562,0,0,31.9116,0.4808
+TechHaven,Autonomous Vehicle,Rainy,Recession,Saturday,16,70.6952,0,0,67.6509,0.0294
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Monday,8,31.8025,1,0,25.442,0.2574
+TechHaven,Autonomous Vehicle,Snowy,Recession,Saturday,20,72.5892,0,0,69.4633,0.0818
+Ecoopolis,Drone,Snowy,Recession,Friday,10,47.9369,0,0,23.9684,0.0477
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Tuesday,22,49.1964,0,0,39.3571,0.0756
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Tuesday,10,86.5307,0,0,82.8045,0.2539
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Friday,20,26.8187,0,0,24.6269,0.2441
+TechHaven,Autonomous Vehicle,Clear,Recession,Monday,6,17.4416,0,0,15.856,0.0898
+AquaCity,Autonomous Vehicle,Snowy,Booming,Tuesday,11,82.0374,0,0,65.6299,0.4845
+AquaCity,Car,Clear,Recession,Monday,14,22.8371,0,0,22.8371,0.1453
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Thursday,2,23.9187,0,0,19.1349,0.1022
+SolarisVille,Drone,Electromagnetic Storm,Booming,Sunday,4,57.189,0,0,28.5945,0.4235
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,10,57.9404,0,0,46.3523,0.2255
+Neuroburg,Drone,Solar Flare,Stable,Tuesday,10,78.4492,0,0,44.5734,0.0944
+SolarisVille,Drone,Rainy,Stable,Saturday,7,70.2259,0,0,35.1129,0.4341
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Thursday,2,50.0235,0,0,45.4759,0.0414
+Ecoopolis,Autonomous Vehicle,Clear,Recession,Friday,11,93.8653,0,0,83.4358,0.0347
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Thursday,2,108.3456,0,0,113.6933,0.0919
+AquaCity,Autonomous Vehicle,Snowy,Booming,Monday,18,43.9652,1,0,39.0801,0.4494
+Ecoopolis,Drone,Snowy,Stable,Friday,11,68.6832,0,0,34.3416,0.3687
+SolarisVille,Autonomous Vehicle,Rainy,Booming,Wednesday,17,58.4067,1,0,46.7254,0.4266
+AquaCity,Car,Snowy,Stable,Friday,0,74.7747,0,0,74.7747,0.5092
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Saturday,15,68.4764,0,0,65.5277,0.0395
+AquaCity,Autonomous Vehicle,Snowy,Stable,Wednesday,9,37.141,0,0,29.7128,0.449
+AquaCity,Drone,Rainy,Stable,Sunday,3,23.4246,0,0,11.7123,0.8049
+TechHaven,Autonomous Vehicle,Rainy,Booming,Wednesday,6,31.5764,0,0,30.2166,0.2559
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Monday,11,46.6487,0,0,42.4079,0.0775
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Monday,16,49.2577,0,0,47.1366,0.0378
+Ecoopolis,Autonomous Vehicle,Clear,Recession,Friday,10,41.999,0,0,33.5992,0.0818
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Monday,3,47.7248,0,0,45.6696,0.4435
+SolarisVille,Drone,Solar Flare,Booming,Thursday,21,55.1083,0,0,27.5542,0.1638
+Ecoopolis,Drone,Electromagnetic Storm,Stable,Monday,1,76.7223,0,0,38.3611,0.3781
+TechHaven,Drone,Snowy,Stable,Monday,1,53.649,0,1,32.0867,0.2787
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Monday,6,13.5725,0,0,10.858,0.2111
+TechHaven,Drone,Rainy,Recession,Wednesday,15,63.9661,0,0,38.2573,0.0766
+AquaCity,Autonomous Vehicle,Snowy,Stable,Thursday,6,26.3761,0,0,21.1009,0.4224
+SolarisVille,Autonomous Vehicle,Clear,Booming,Monday,3,89.67,0,0,71.736,0.3221
+TechHaven,Drone,Snowy,Recession,Thursday,0,49.4139,0,0,41.0469,0.063
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Wednesday,2,96.2884,0,0,77.0307,0.2032
+Neuroburg,Drone,Solar Flare,Stable,Thursday,11,34.5136,0,1,19.61,0.0776
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Saturday,21,90.8565,0,0,82.5968,0.4224
+Ecoopolis,Drone,Solar Flare,Stable,Sunday,12,39.9714,1,0,19.9857,0.4016
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Wednesday,16,78.3461,0,0,62.6769,0.279
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,5,57.4112,0,0,54.939,0.0923
+Ecoopolis,Drone,Solar Flare,Booming,Thursday,19,78.6606,0,0,39.3303,0.2284
+AquaCity,Autonomous Vehicle,Solar Flare,Booming,Wednesday,20,48.1947,0,0,42.8398,0.4577
+Neuroburg,Drone,Snowy,Recession,Sunday,3,22.6857,0,0,13.568,0.029
+Neuroburg,Autonomous Vehicle,Clear,Recession,Monday,12,25.375,0,0,23.0681,0.014
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Monday,11,33.2499,0,0,30.2272,0.573
+AquaCity,Drone,Snowy,Stable,Thursday,8,42.5955,1,0,21.2978,0.3782
+Neuroburg,Drone,Snowy,Stable,Sunday,8,105.3236,0,0,62.9926,0.0851
+Neuroburg,Car,Rainy,Booming,Sunday,10,51.6973,0,1,61.8388,0.0769
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Wednesday,22,44.2656,0,0,35.4125,0.1314
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Friday,18,73.803,1,0,65.6027,0.2908
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Wednesday,5,31.4042,0,0,28.5493,0.1269
+AquaCity,Autonomous Vehicle,Clear,Stable,Wednesday,13,103.09,0,1,82.472,0.6591
+AquaCity,Drone,Solar Flare,Booming,Monday,17,59.7026,1,0,29.8513,0.4321
+Neuroburg,Drone,Rainy,Booming,Thursday,20,57.7762,0,0,43.1939,0.0708
+Neuroburg,Autonomous Vehicle,Clear,Stable,Monday,13,73.7058,0,0,67.0053,0.091
+AquaCity,Flying Car,Electromagnetic Storm,Booming,Tuesday,8,39.0109,1,0,46.8131,0.5966
+Neuroburg,Autonomous Vehicle,Clear,Recession,Tuesday,3,77.1925,0,0,70.175,0.0363
+TechHaven,Drone,Rainy,Booming,Wednesday,17,31.2903,1,0,14.9714,0.2138
+TechHaven,Drone,Rainy,Stable,Tuesday,12,72.2574,0,0,43.2162,0.1496
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Sunday,22,62.4145,0,1,56.7405,0.3294
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,16,55.3757,0,0,44.3005,0.5612
+AquaCity,Autonomous Vehicle,Rainy,Booming,Friday,17,71.4908,1,0,57.1926,0.3939
+Neuroburg,Drone,Snowy,Stable,Wednesday,17,34.7111,1,0,16.6082,0.0541
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Wednesday,13,38.1052,0,0,30.4842,0.1328
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,15,83.045,0,0,79.4689,0.0623
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Tuesday,22,72.7536,0,0,69.6207,0.0511
+Neuroburg,Drone,Electromagnetic Storm,Recession,Thursday,23,81.9061,0,0,48.9869,0.0119
+MetropolisX,Drone,Rainy,Recession,Wednesday,21,45.5122,0,0,27.2202,0.0851
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,11,37.1683,0,0,35.5677,0.1176
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,18,29.8243,1,0,33.1381,0.4664
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Sunday,19,60.6996,0,0,48.5597,0.2442
+TechHaven,Autonomous Vehicle,Rainy,Recession,Wednesday,1,19.4112,0,0,18.5753,0.0906
+AquaCity,Car,Snowy,Stable,Sunday,8,40.0332,0,0,40.0332,0.779
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Wednesday,0,34.6153,0,0,27.6923,0.191
+MetropolisX,Drone,Electromagnetic Storm,Booming,Wednesday,5,30.5758,0,0,18.287,0.3712
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,10,120,0,0,97.0237,0.4246
+AquaCity,Autonomous Vehicle,Clear,Stable,Tuesday,5,89.196,0,0,79.2854,0.4116
+Neuroburg,Drone,Solar Flare,Recession,Monday,20,101.0079,0,0,57.3909,0.0429
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Wednesday,4,87.8206,0,0,84.0388,0.2833
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Friday,15,74.4363,0,0,71.2309,0.2335
+Ecoopolis,Drone,Rainy,Stable,Saturday,17,73.2452,0,0,36.6226,0.21
+AquaCity,Autonomous Vehicle,Clear,Stable,Tuesday,13,104.9082,0,0,83.9265,0.3224
+AquaCity,Autonomous Vehicle,Clear,Booming,Thursday,5,62.5229,0,0,50.0183,0.4511
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Sunday,1,100.0354,0,0,80.0283,0.1556
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,19,91.5006,0,0,81.3339,0.3781
+MetropolisX,Car,Rainy,Booming,Tuesday,5,102.7976,0,0,122.9636,0.5522
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Monday,21,73.8863,0,0,60.4313,0.0573
+SolarisVille,Flying Car,Electromagnetic Storm,Stable,Saturday,20,61.754,0,0,74.1048,0.4846
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,20,65.7775,0,0,58.4689,0.3974
+TechHaven,Autonomous Vehicle,Rainy,Booming,Sunday,9,15.3197,0,0,22.9062,0.3023
+AquaCity,Car,Rainy,Booming,Saturday,8,20.0682,0,0,20.0682,0.4668
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,17,26.472,1,0,20.2656,0.124
+Neuroburg,Drone,Rainy,Booming,Thursday,23,63.8378,0,0,38.1805,0.0653
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,17,31.9881,0,0,30.6106,0.0439
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,10,83.0691,0,0,79.4919,0.3926
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,4,44.605,0,0,42.6842,0.0917
+TechHaven,Autonomous Vehicle,Rainy,Stable,Saturday,13,48.0904,1,0,36.8156,0.1248
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,9,88.5685,0,1,70.8548,0.2024
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Friday,7,29.4471,1,0,23.5577,0.1281
+AquaCity,Autonomous Vehicle,Clear,Booming,Saturday,5,81.5393,0,0,65.2314,0.4772
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Monday,16,37.3846,0,0,39.7497,0.0337
+AquaCity,Drone,Rainy,Stable,Sunday,4,65.6209,0,0,32.8105,0.629
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,17,29.6594,0,0,28.3822,0.2207
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Friday,9,57.7066,0,0,55.2216,0.0343
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,2,41.5616,0,0,39.7719,0.0143
+AquaCity,Drone,Clear,Stable,Tuesday,10,18.2842,0,0,9.1421,0.4141
+TechHaven,Autonomous Vehicle,Rainy,Booming,Thursday,0,60.3399,0,0,57.7415,0.1888
+TechHaven,Drone,Clear,Booming,Wednesday,9,59.6105,0,0,33.8696,0.3675
+SolarisVille,Autonomous Vehicle,Rainy,Stable,Wednesday,1,16.0476,0,1,12.8381,0.3992
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,13,33.7423,0,0,32.2893,0.2224
+Neuroburg,Drone,Solar Flare,Booming,Wednesday,18,66.9848,1,0,30.4476,0.1285
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,13,92.6105,1,0,74.0884,0.1806
+TechHaven,Autonomous Vehicle,Clear,Booming,Sunday,8,28.5393,0,0,40.5387,0.1703
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,5,73.7109,0,0,70.5367,0.4488
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Wednesday,2,51.3881,0,0,49.1752,0.0573
+SolarisVille,Drone,Rainy,Recession,Wednesday,16,92.5266,0,0,51.4036,0.1202
+SolarisVille,Flying Car,Electromagnetic Storm,Stable,Sunday,8,85.8904,0,0,103.0685,0.6382
+AquaCity,Drone,Electromagnetic Storm,Stable,Monday,22,48.6189,0,0,24.3094,0.4064
+MetropolisX,Drone,Electromagnetic Storm,Recession,Tuesday,2,93.5105,0,0,55.9273,0.2827
+Neuroburg,Drone,Rainy,Booming,Friday,17,72.4335,1,0,34.6572,0.0675
+SolarisVille,Autonomous Vehicle,Clear,Booming,Thursday,3,27.4137,0,0,21.931,0.402
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Tuesday,18,23.9971,1,1,21.3307,0.1178
+SolarisVille,Car,Solar Flare,Stable,Friday,0,113.7836,0,0,113.7836,0.2262
+AquaCity,Flying Car,Rainy,Booming,Friday,2,47.2825,0,0,56.739,0.4394
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Sunday,2,38.9796,0,0,35.436,0.0732
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Wednesday,16,112.1686,0,0,89.7349,0.0581
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,8,86.9329,1,0,66.5515,0.1226
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Tuesday,16,96,0,0,93.0804,0.2559
+MetropolisX,Autonomous Vehicle,Clear,Booming,Thursday,13,96.8049,0,0,77.4439,0.8396
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Wednesday,11,83.3676,0,0,79.7776,0.0727
+MetropolisX,Autonomous Vehicle,Clear,Booming,Friday,7,121.9414,1,0,88.6847,0.4261
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Saturday,11,88.9229,0,0,85.0937,0.0673
+MetropolisX,Drone,Rainy,Booming,Saturday,14,48.1065,1,0,23.0174,0.5533
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Thursday,15,86.4,0,0,72.5787,0.4693
+AquaCity,Car,Snowy,Recession,Sunday,1,18.4311,0,0,18.4311,0.0788
+Neuroburg,Drone,Snowy,Booming,Saturday,17,78.3294,0,0,46.8477,0.0627
+TechHaven,Autonomous Vehicle,Rainy,Stable,Wednesday,22,75.7334,0,0,72.4722,0.1564
+SolarisVille,Drone,Solar Flare,Stable,Saturday,16,51.7305,0,0,28.7392,0.2016
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,19,46.2767,0,0,38.9698,0.8948
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Thursday,1,83.7722,0,0,80.1648,0.1969
+TechHaven,Autonomous Vehicle,Rainy,Stable,Monday,1,63.9092,0,0,61.1571,0.2415
+AquaCity,Autonomous Vehicle,Rainy,Recession,Friday,18,30.6387,1,0,27.2344,0.1517
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Tuesday,7,25.2212,1,1,23.5988,0.9009
+TechHaven,Autonomous Vehicle,Rainy,Recession,Wednesday,11,21.8147,0,0,20.8754,0.0611
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,20,24.3644,0,0,19.4916,0.0745
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Wednesday,15,24.0671,0,0,36.5566,0.4808
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Monday,16,40.8922,0,0,32.7138,0.224
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,14,34.8786,1,0,27.9029,0.2081
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Tuesday,21,21.7286,0,1,19.3143,0.1508
+TechHaven,Autonomous Vehicle,Snowy,Stable,Sunday,17,17.4962,0,0,16.7428,0.1826
+SolarisVille,Drone,Clear,Booming,Monday,11,33.9131,0,0,16.9565,0.5342
+TechHaven,Drone,Solar Flare,Recession,Friday,15,61.2942,0,0,34.8263,0.1362
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,0,55.8551,0,0,49.649,0.659
+MetropolisX,Autonomous Vehicle,Clear,Stable,Friday,5,24.9072,0,0,27.6747,0.9709
+AquaCity,Flying Car,Clear,Recession,Wednesday,6,28.5486,0,0,34.2583,0.2986
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Tuesday,7,75.036,1,0,57.4438,0.5348
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Sunday,11,34.5321,0,0,31.3928,0.1107
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,0,91.6325,0,0,73.306,0.0946
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Monday,18,86.4,1,0,82.745,0.2353
+AquaCity,Autonomous Vehicle,Clear,Stable,Friday,0,95.4817,0,0,76.3854,0.4847
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,2,69.9017,0,0,66.8916,0.2134
+Ecoopolis,Car,Clear,Booming,Friday,1,90.906,0,0,90.906,0.1859
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,1,88.4306,0,0,70.7445,0.0686
+AquaCity,Drone,Clear,Stable,Friday,10,100.3047,0,0,50.1523,0.3851
+SolarisVille,Drone,Clear,Recession,Saturday,22,100.2213,0,0,50.1107,0.1584
+SolarisVille,Autonomous Vehicle,Clear,Recession,Friday,4,71.5632,0,0,57.2505,0.1611
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Monday,10,92.0376,0,0,83.6706,0.1692
+Neuroburg,Drone,Solar Flare,Recession,Thursday,3,68.3608,0,0,38.8414,0.0272
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,9,78.7956,0,0,63.0365,0.6938
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Wednesday,16,32.8949,0,0,29.9045,0.233
+TechHaven,Drone,Clear,Stable,Saturday,19,57.8837,0,0,32.8885,0.2766
+AquaCity,Autonomous Vehicle,Snowy,Booming,Friday,15,74.3556,0,1,59.4845,0.4742
+Ecoopolis,Flying Car,Electromagnetic Storm,Stable,Thursday,19,72.2899,0,0,86.7479,0.2687
+SolarisVille,Flying Car,Solar Flare,Stable,Tuesday,21,35.0865,0,0,42.1038,0.2275
+Ecoopolis,Drone,Clear,Stable,Tuesday,6,96,0,0,58.3388,0.417
+AquaCity,Drone,Solar Flare,Booming,Saturday,5,20.0458,0,0,12.5286,0.488
+MetropolisX,Car,Snowy,Booming,Saturday,18,69.7595,0,0,83.4444,0.661
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Tuesday,23,59.4872,0,0,47.5898,0.0981
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Tuesday,13,107.194,0,0,102.578,0.4157
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Thursday,0,72.7994,0,0,58.2395,0.0382
+TechHaven,Drone,Clear,Recession,Friday,21,84.0831,0,1,47.7745,0.1136
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,21,84.6549,0,0,75.0088,0.2685
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Friday,0,95.7434,0,0,91.6204,0.1368
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Monday,23,47.2336,0,0,67.0932,0.2572
+Neuroburg,Autonomous Vehicle,Clear,Stable,Friday,14,38.0161,0,0,34.5601,0.0807
+AquaCity,Flying Car,Rainy,Recession,Tuesday,5,32.5894,0,0,39.1073,0.2955
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Thursday,4,71.3475,0,0,68.2751,0.3774
+Neuroburg,Drone,Rainy,Recession,Sunday,21,72.8673,0,0,43.5809,0.0279
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,1,88.1759,0,0,84.3789,0.1715
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Wednesday,0,38.9349,0,0,37.2583,0.4364
+SolarisVille,Drone,Rainy,Booming,Wednesday,0,22.0904,0,0,11.0452,0.2812
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Wednesday,16,29.7871,0,0,23.8297,0.1189
+SolarisVille,Drone,Solar Flare,Stable,Monday,22,82.8253,0,0,41.4127,0.1522
+Neuroburg,Autonomous Vehicle,Clear,Booming,Friday,10,30.0963,0,0,27.3602,0.0997
+AquaCity,Car,Clear,Recession,Sunday,19,39.5157,0,0,39.5157,0.1957
+SolarisVille,Drone,Clear,Booming,Thursday,9,74.039,0,0,37.0195,0.5586
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Wednesday,12,24.3849,0,0,22.1681,0.5102
+MetropolisX,Flying Car,Snowy,Stable,Friday,11,47.2609,0,0,67.8386,0.5081
+TechHaven,Autonomous Vehicle,Rainy,Stable,Monday,15,13.8083,0,0,13.2136,0.1338
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Sunday,20,103.4462,0,0,82.757,0.1192
+TechHaven,Drone,Solar Flare,Stable,Friday,8,70.948,1,0,32.2491,0.3009
+MetropolisX,Flying Car,Rainy,Booming,Tuesday,12,30.6913,0,0,44.0545,0.4021
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Saturday,13,23.1184,1,0,18.4947,0.2916
+AquaCity,Autonomous Vehicle,Clear,Stable,Saturday,17,28.2201,0,0,22.5761,0.5438
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Sunday,0,36.7255,0,0,35.144,0.6957
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,15,117.8636,0,0,112.7881,0.1548
+TechHaven,Drone,Clear,Stable,Saturday,1,63.2219,0,0,35.9216,0.207
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Friday,13,27.6165,0,0,22.0932,0.1492
+MetropolisX,Drone,Electromagnetic Storm,Stable,Monday,19,92.0361,0,0,48.44,0.8052
+SolarisVille,Autonomous Vehicle,Clear,Stable,Thursday,3,28.1026,0,0,22.4821,0.45
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Tuesday,3,74.7968,0,0,59.8375,0.3065
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Wednesday,6,85.6891,0,0,81.9992,0.1499
+MetropolisX,Drone,Electromagnetic Storm,Stable,Wednesday,1,72.7572,0,0,43.5151,0.4505
+TechHaven,Drone,Clear,Stable,Tuesday,15,101.2122,0,0,57.507,0.2241
+TechHaven,Autonomous Vehicle,Clear,Booming,Tuesday,19,41.7214,0,0,35.119,0.2698
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Tuesday,16,33.2606,0,0,30.2369,0.4507
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Friday,16,122.195,0,0,111.0864,0.4491
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Friday,10,25.3098,0,0,24.2199,0.1617
+AquaCity,Autonomous Vehicle,Solar Flare,Booming,Thursday,21,65.945,0,0,58.6178,0.5426
+SolarisVille,Autonomous Vehicle,Rainy,Booming,Wednesday,1,44.7067,0,0,35.7654,0.446
+AquaCity,Flying Car,Solar Flare,Recession,Thursday,8,26.5267,1,0,31.832,0.3607
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Friday,6,48.9177,0,0,46.8112,0.5932
+Neuroburg,Autonomous Vehicle,Clear,Booming,Sunday,20,95.7743,0,0,87.0675,0.0928
+AquaCity,Drone,Rainy,Stable,Monday,7,71.7792,1,0,35.8896,0.5247
+Neuroburg,Autonomous Vehicle,Clear,Stable,Sunday,9,110.6925,0,0,100.6295,0.0598
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Saturday,23,50.5593,0,0,48.3821,0.226
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Sunday,8,94.7685,0,0,90.6875,0.2851
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Thursday,21,59.5702,0,0,48.7222,0.0527
+SolarisVille,Drone,Snowy,Stable,Sunday,2,38.8431,0,0,19.4215,0.278
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,23,99.3555,0,0,95.077,0.0391
+AquaCity,Drone,Snowy,Booming,Tuesday,0,56.215,0,0,28.1075,0.6241
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Tuesday,12,69.8666,0,0,63.5151,0.3085
+MetropolisX,Drone,Solar Flare,Stable,Monday,15,117.6323,0,0,58.8161,0.8983
+MetropolisX,Autonomous Vehicle,Clear,Booming,Thursday,23,41.7789,0,0,46.421,1.0815
+AquaCity,Autonomous Vehicle,Snowy,Stable,Saturday,16,40.0295,0,0,32.0236,0.5809
+SolarisVille,Car,Electromagnetic Storm,Recession,Tuesday,4,84.9984,0,0,84.9984,0.1916
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Monday,19,58.7699,0,0,90.1702,0.1384
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,4,68.2036,0,0,65.2666,0.0541
+TechHaven,Autonomous Vehicle,Rainy,Stable,Friday,12,25.3315,0,0,24.2407,0.2226
+Neuroburg,Autonomous Vehicle,Clear,Recession,Thursday,18,34.0078,1,0,21.1393,0.0601
+SolarisVille,Drone,Electromagnetic Storm,Recession,Tuesday,19,126.4263,0,0,63.2132,0.1822
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Tuesday,18,22.5399,1,0,20.0355,0.1918
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Monday,20,63.4252,0,0,56.378,0.1606
+TechHaven,Autonomous Vehicle,Clear,Booming,Sunday,20,47.6264,0,0,43.2967,0.4329
+AquaCity,Autonomous Vehicle,Rainy,Booming,Wednesday,6,33.6477,0,0,26.9182,0.4464
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Friday,13,32.8495,0,0,29.8631,0.0717
+MetropolisX,Autonomous Vehicle,Clear,Stable,Friday,4,41.3839,0,0,37.6218,0.5604
+Ecoopolis,Drone,Rainy,Stable,Saturday,0,83.0472,0,0,41.5236,0.2055
+MetropolisX,Drone,Solar Flare,Stable,Tuesday,7,42.8776,1,0,19.4898,0.5422
+Ecoopolis,Flying Car,Rainy,Stable,Thursday,19,40.8516,0,0,49.0219,0.4306
+AquaCity,Flying Car,Snowy,Stable,Wednesday,3,17.0883,0,0,20.506,0.6175
+AquaCity,Autonomous Vehicle,Clear,Stable,Sunday,5,65.5089,0,0,52.4071,0.446
+AquaCity,Autonomous Vehicle,Clear,Recession,Thursday,19,77.2856,0,0,68.6983,0.0788
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Wednesday,4,42.5771,0,0,40.7436,0.4529
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Thursday,7,105.0808,1,0,80.4446,0.0976
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Friday,20,22.66,0,0,20.1423,0.1904
+AquaCity,Drone,Clear,Recession,Sunday,12,95.04,1,0,53.8219,0.1511
+SolarisVille,Drone,Solar Flare,Stable,Saturday,23,90.763,0,0,45.3815,0.1678
+AquaCity,Car,Solar Flare,Stable,Thursday,23,75.2478,0,0,75.2478,0.5566
+Neuroburg,Flying Car,Rainy,Stable,Thursday,22,65.7821,0,0,94.424,0.0772
+TechHaven,Autonomous Vehicle,Snowy,Stable,Tuesday,19,47.2378,0,0,41.8552,0.2168
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Saturday,10,86.6704,0,0,69.3363,0.0868
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,22,44.9445,0,0,43.0091,0.1388
+SolarisVille,Autonomous Vehicle,Rainy,Recession,Wednesday,19,23.2287,0,0,20.6477,0.1176
+MetropolisX,Drone,Rainy,Recession,Monday,17,37.9124,1,0,28.7935,0.2596
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Friday,23,58.5257,0,0,46.8206,0.1049
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,14,85.8016,0,0,82.1068,0.4718
+MetropolisX,Autonomous Vehicle,Clear,Booming,Thursday,12,67.5534,0,0,109.6646,0.5164
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Sunday,7,44.1133,0,0,35.2906,0.0885
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Thursday,1,49.4915,0,0,59.2004,0.0685
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Saturday,12,20.3935,1,0,16.3148,0.0505
+AquaCity,Autonomous Vehicle,Clear,Stable,Monday,22,89.5525,0,0,71.642,0.6497
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,2,60.4721,0,0,57.868,0.1117
+AquaCity,Car,Rainy,Recession,Sunday,23,55.4513,0,0,55.4513,0.3754
+Neuroburg,Drone,Snowy,Stable,Monday,23,68.8805,0,0,41.1965,0.054
+TechHaven,Autonomous Vehicle,Rainy,Recession,Saturday,7,69.6,0,0,66.6029,0.0985
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Sunday,10,94.1479,0,0,90.0937,0.0849
+Neuroburg,Autonomous Vehicle,Clear,Stable,Tuesday,0,35.0358,0,0,31.8508,0.0689
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Monday,6,78.058,0,0,62.4464,0.4383
+MetropolisX,Drone,Rainy,Stable,Friday,6,77.3364,0,1,46.2538,0.409
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Wednesday,18,32.0172,1,0,28.4597,0.4598
+SolarisVille,Autonomous Vehicle,Rainy,Recession,Friday,19,92.0818,0,0,81.8505,0.0917
+SolarisVille,Autonomous Vehicle,Clear,Stable,Tuesday,22,71.4734,0,0,57.1787,0.4088
+Neuroburg,Drone,Solar Flare,Recession,Tuesday,3,94.7695,0,0,53.8463,0.0168
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Friday,23,43.9857,0,0,42.0916,0.4547
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Monday,12,37.9788,0,0,34.5262,0.357
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Tuesday,1,20.7458,0,0,18.8598,0.2287
+Neuroburg,Autonomous Vehicle,Clear,Recession,Thursday,12,73.2154,0,0,66.5594,0.0169
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Saturday,13,36.4556,1,0,29.1645,0.4003
+AquaCity,Car,Snowy,Stable,Sunday,19,72.6578,0,0,72.6578,0.709
+AquaCity,Drone,Snowy,Booming,Thursday,8,70.0441,1,0,35.0221,0.5985
+MetropolisX,Drone,Solar Flare,Recession,Tuesday,13,90.7403,0,0,51.557,0.4186
+SolarisVille,Drone,Rainy,Recession,Monday,5,37.2932,0,0,18.6466,0.1497
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Saturday,23,83.3529,0,0,66.6823,0.2596
+Ecoopolis,Drone,Clear,Recession,Tuesday,10,44.4378,0,0,22.2189,0.0766
+AquaCity,Autonomous Vehicle,Clear,Stable,Wednesday,17,74.931,1,0,59.9448,0.4043
+TechHaven,Autonomous Vehicle,Clear,Booming,Tuesday,9,33.5681,0,0,30.5165,0.2196
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Saturday,11,36.3748,0,0,34.8085,0.4517
+TechHaven,Drone,Rainy,Recession,Tuesday,3,20.3627,0,0,12.1787,0.0827
+AquaCity,Drone,Electromagnetic Storm,Booming,Saturday,15,80.447,0,0,40.2235,0.7617
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,15,77.1399,0,0,73.8181,0.072
+AquaCity,Autonomous Vehicle,Clear,Recession,Tuesday,16,80.0038,0,0,64.0031,0.2694
+Ecoopolis,Autonomous Vehicle,Clear,Recession,Wednesday,21,62.4182,0,0,55.4828,0.0966
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,19,27.6965,0,0,24.6191,0.1109
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,0,69.6625,0,0,66.6627,0.0437
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Sunday,5,42.0495,0,0,33.6396,0.2897
+SolarisVille,Drone,Clear,Booming,Thursday,22,75.1595,0,0,37.5798,0.4611
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Tuesday,9,35.7563,0,0,28.605,0.2136
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,19,85.3704,0,0,82.5194,0.4701
+Ecoopolis,Drone,Electromagnetic Storm,Booming,Tuesday,11,86.78,0,0,43.39,0.2222
+MetropolisX,Drone,Electromagnetic Storm,Booming,Thursday,6,19.7065,0,1,21.0468,0.5058
+Neuroburg,Autonomous Vehicle,Clear,Stable,Thursday,1,82.948,0,0,75.4073,0.0722
+Ecoopolis,Drone,Clear,Booming,Thursday,17,22.6578,1,0,11.3289,0.1811
+TechHaven,Autonomous Vehicle,Snowy,Stable,Friday,0,31.7979,0,0,30.4286,0.2827
+Neuroburg,Car,Rainy,Recession,Sunday,2,60.4557,0,0,72.3154,0.0188
+SolarisVille,Drone,Solar Flare,Stable,Friday,9,106.4985,0,0,53.2493,0.144
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,5,22.02,0,0,21.0718,0.2592
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,10,38.2378,0,0,30.5903,0.5186
+TechHaven,Drone,Rainy,Recession,Monday,1,107.6517,0,0,64.385,0.0864
+TechHaven,Autonomous Vehicle,Snowy,Recession,Wednesday,9,67.4655,0,0,64.5603,0.0766
+AquaCity,Autonomous Vehicle,Snowy,Recession,Sunday,8,80.418,0,0,64.3344,0.2
+MetropolisX,Autonomous Vehicle,Rainy,Booming,Sunday,8,30.7925,0,0,29.4665,0.3565
+Neuroburg,Drone,Solar Flare,Booming,Monday,7,61.5739,1,0,27.9882,0.1216
+AquaCity,Car,Electromagnetic Storm,Recession,Wednesday,11,79.5091,0,0,79.5091,0.1704
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Wednesday,13,53.3412,0,0,42.673,0.284
+SolarisVille,Drone,Snowy,Stable,Friday,0,87.4439,0,0,43.7219,0.4019
+SolarisVille,Autonomous Vehicle,Clear,Recession,Sunday,10,63.7408,0,0,50.9926,0.0791
+TechHaven,Autonomous Vehicle,Rainy,Stable,Saturday,2,70.7162,0,0,67.671,0.3268
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Saturday,12,28.1364,1,0,20.4628,0.0698
+AquaCity,Car,Rainy,Stable,Monday,9,36.9771,0,0,36.9771,1.0404
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Sunday,8,86.4,0,0,90.5472,0.3098
+Neuroburg,Drone,Snowy,Recession,Tuesday,23,30.6586,0,0,18.3365,0.0226
+TechHaven,Drone,Electromagnetic Storm,Stable,Thursday,11,52.0354,0,0,31.1217,0.2476
+SolarisVille,Car,Clear,Recession,Saturday,11,75.9323,0,0,75.9323,0.0568
+Ecoopolis,Autonomous Vehicle,Clear,Recession,Monday,20,17.7745,0,0,15.7995,0.1077
+SolarisVille,Autonomous Vehicle,Clear,Booming,Thursday,4,63.3351,0,0,50.6681,0.3402
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,15,77.9915,0,0,74.633,0.0677
+AquaCity,Drone,Clear,Stable,Saturday,3,76.2731,0,0,38.1366,0.78
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Thursday,7,86.4,1,0,74.1708,0.445
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Tuesday,8,115.857,1,0,88.6943,0.0137
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Thursday,8,60.8227,1,0,46.5628,0.0983
+SolarisVille,Flying Car,Snowy,Stable,Monday,2,52.4503,0,0,62.9403,0.3051
+AquaCity,Drone,Rainy,Recession,Friday,4,25.412,0,0,14.1178,0.1221
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,14,74.1736,0,0,59.3389,0.0808
+TechHaven,Drone,Snowy,Recession,Thursday,12,28.7072,0,0,17.1694,0.0565
+Ecoopolis,Car,Solar Flare,Recession,Saturday,11,26.7877,0,0,26.7877,0.0481
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Saturday,22,110.8068,0,0,106.0352,0.2071
+SolarisVille,Drone,Snowy,Stable,Monday,20,56.8847,0,0,28.4424,0.3661
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Friday,19,52.2033,0,1,46.4029,0.0747
+SolarisVille,Flying Car,Clear,Recession,Tuesday,1,45.1501,0,0,54.1802,0.1742
+MetropolisX,Drone,Rainy,Booming,Saturday,18,62.2633,0,0,37.2388,0.5383
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Monday,15,53.5236,0,0,64.0235,0.0384
+AquaCity,Flying Car,Snowy,Recession,Friday,18,50.1776,1,0,60.2131,0.1613
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,16,20.4842,0,0,19.6021,0.1567
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,12,16.6648,1,0,13.3319,0.1795
+TechHaven,Autonomous Vehicle,Snowy,Booming,Saturday,11,53.6109,0,0,51.3023,0.183
+SolarisVille,Autonomous Vehicle,Rainy,Stable,Wednesday,23,100.8353,0,0,80.6682,0.2
+MetropolisX,Autonomous Vehicle,Clear,Stable,Sunday,1,100.5318,0,0,91.3925,0.5879
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Sunday,17,59.8556,0,0,47.8845,0.2643
+Ecoopolis,Car,Electromagnetic Storm,Stable,Saturday,14,76.8,1,0,84.4623,0.4186
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Monday,14,73.9404,0,0,70.7564,0.0085
+TechHaven,Drone,Solar Flare,Recession,Saturday,2,90.8881,0,0,51.641,0.0396
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Sunday,2,66.343,0,0,60.3118,0.2297
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Tuesday,7,119.1802,1,0,92.3097,0.3662
+TechHaven,Car,Rainy,Booming,Friday,11,75.9441,0,0,90.8422,0.2541
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,21,37.6059,0,0,33.4274,0.0971
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Wednesday,5,75.0794,0,0,60.0635,0.435
+Neuroburg,Autonomous Vehicle,Clear,Recession,Saturday,6,41.9017,0,0,38.0924,0.0386
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Thursday,16,96.9109,0,0,77.5287,0.0753
+TechHaven,Autonomous Vehicle,Clear,Stable,Wednesday,19,55.6857,0,0,46.8735,0.2271
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Friday,20,63.8176,0,0,61.6863,0.1141
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,18,86.4,1,0,94.7169,0.4263
+AquaCity,Drone,Solar Flare,Booming,Friday,2,79.3055,0,0,39.6527,0.579
+TechHaven,Autonomous Vehicle,Rainy,Stable,Monday,12,49.0479,0,1,46.9358,0.2736
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Thursday,15,62.0759,0,1,56.4326,0.1831
+AquaCity,Flying Car,Electromagnetic Storm,Booming,Saturday,23,22.6046,0,0,27.1255,0.561
+TechHaven,Autonomous Vehicle,Rainy,Recession,Wednesday,17,61.5387,1,0,47.1109,0.0615
+Ecoopolis,Car,Clear,Recession,Tuesday,16,63.3754,0,0,63.3754,0.0809
+MetropolisX,Autonomous Vehicle,Clear,Recession,Friday,23,59.7575,0,0,54.325,0.1997
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Sunday,15,19.8613,0,0,19.006,0.4834
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Monday,19,100.7873,0,0,82.4335,0.0177
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Wednesday,19,90.2531,0,0,82.8771,0.4468
+AquaCity,Flying Car,Electromagnetic Storm,Recession,Friday,20,92.6861,0,0,111.2234,0.4601
+MetropolisX,Car,Electromagnetic Storm,Recession,Sunday,4,50.7329,0,0,60.6853,0.2687
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Tuesday,16,82.5353,0,0,66.0282,0.371
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Wednesday,2,90.8338,0,0,82.5762,0.3173
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,20,52.1236,0,0,50.3829,0.6117
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Sunday,9,44.7209,0,0,52.3052,0.9764
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Friday,16,47.6418,0,0,38.1134,0.036
+AquaCity,Autonomous Vehicle,Solar Flare,Booming,Tuesday,19,24.2652,0,0,21.5691,0.684
+AquaCity,Car,Rainy,Booming,Wednesday,16,23.5086,0,0,23.5086,0.5787
+MetropolisX,Drone,Electromagnetic Storm,Stable,Wednesday,17,53.1288,1,0,25.4205,0.5918
+SolarisVille,Autonomous Vehicle,Rainy,Recession,Wednesday,17,73.8611,1,0,59.0889,0.1299
+Ecoopolis,Drone,Solar Flare,Booming,Monday,19,82.3509,0,0,41.1754,0.2522
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Thursday,8,36.0518,1,0,33.7327,0.967
+AquaCity,Flying Car,Electromagnetic Storm,Booming,Monday,7,33.1691,1,0,39.803,0.8827
+Ecoopolis,Drone,Clear,Stable,Sunday,19,96,0,1,55.9878,0.2705
+TechHaven,Drone,Clear,Recession,Sunday,0,17.0023,0,0,9.6604,0.1304
+Neuroburg,Autonomous Vehicle,Clear,Stable,Tuesday,19,105.3868,0,0,81.8856,0.0813
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,20,101.3744,0,0,82.9137,0.034
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,10,45.3101,0,0,36.2481,0.2318
+SolarisVille,Drone,Clear,Stable,Thursday,0,67.6299,0,0,33.815,0.471
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,19,57.6272,0,0,51.2241,0.1165
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,14,22.399,1,0,27.2184,0.2818
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Tuesday,22,57.2701,0,0,45.816,0.4157
+AquaCity,Car,Snowy,Recession,Friday,5,71.9388,0,0,71.9388,0.1192
+Ecoopolis,Drone,Rainy,Stable,Thursday,16,86.4,0,0,57.9115,0.2647
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,1,31.2883,0,0,29.941,0.0789
+AquaCity,Autonomous Vehicle,Clear,Booming,Friday,8,86.4,1,0,79.0162,0.6604
+AquaCity,Car,Electromagnetic Storm,Recession,Friday,10,70.9115,0,0,70.9115,0.0742
+Neuroburg,Drone,Electromagnetic Storm,Stable,Monday,0,26.879,0,0,16.0759,0.2176
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Wednesday,15,61.3957,0,0,54.5739,0.0606
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Friday,2,83.6092,0,0,66.8874,0.264
+AquaCity,Drone,Snowy,Recession,Saturday,10,49.7357,0,0,24.8679,0.1204
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Thursday,4,26.806,0,0,24.3691,0.0645
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Tuesday,8,64.0299,1,0,46.5672,0.0634
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,10,64.0477,0,0,61.2896,0.1926
+TechHaven,Autonomous Vehicle,Snowy,Booming,Thursday,16,48.782,0,0,46.6814,0.225
+AquaCity,Drone,Snowy,Recession,Saturday,11,33.5331,0,0,16.7665,0.1721
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Sunday,16,27.3458,0,0,21.8766,0.201
+MetropolisX,Autonomous Vehicle,Clear,Booming,Wednesday,1,40.8819,0,0,37.1653,0.554
+TechHaven,Autonomous Vehicle,Clear,Recession,Wednesday,16,34.5652,0,0,31.4229,0.0539
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Sunday,12,27.8072,1,0,20.2235,0.3448
+Neuroburg,Drone,Clear,Stable,Wednesday,16,30.2487,0,0,17.1868,0.0916
+SolarisVille,Drone,Rainy,Booming,Thursday,18,33.6956,1,0,16.8478,0.4192
+Ecoopolis,Flying Car,Snowy,Stable,Thursday,5,31.1083,0,0,37.3299,0.4386
+AquaCity,Autonomous Vehicle,Solar Flare,Booming,Wednesday,23,71.9546,0,0,57.5637,0.4459
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Wednesday,8,49.6589,1,0,39.7271,0.1805
+SolarisVille,Drone,Electromagnetic Storm,Stable,Thursday,1,37.5985,0,1,18.7993,0.4676
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Wednesday,7,45.6418,1,0,34.9411,0.148
+SolarisVille,Car,Electromagnetic Storm,Stable,Wednesday,17,96,1,0,96.4277,0.452
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Tuesday,6,56.5052,0,0,54.072,0.5459
+AquaCity,Drone,Electromagnetic Storm,Recession,Monday,19,98.5348,0,0,49.2674,0.1605
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Wednesday,20,28.4386,0,0,25.2787,0.1887
+SolarisVille,Drone,Electromagnetic Storm,Stable,Friday,4,56.8876,0,0,28.4438,0.3827
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Friday,2,34.2102,0,0,27.3682,0.1337
+AquaCity,Drone,Snowy,Booming,Tuesday,11,42.6632,0,0,21.3316,0.5473
+AquaCity,Car,Clear,Recession,Thursday,23,29.8736,0,0,29.8736,0.0865
+SolarisVille,Car,Snowy,Recession,Tuesday,11,83.7408,0,0,83.7408,0.1202
+Neuroburg,Autonomous Vehicle,Solar Flare,Booming,Saturday,15,69.2694,0,0,62.9722,0.2104
+TechHaven,Autonomous Vehicle,Clear,Stable,Sunday,18,44.6334,0,0,40.5759,0.2115
+AquaCity,Flying Car,Solar Flare,Stable,Thursday,14,29.678,0,0,35.6136,0.475
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Tuesday,11,86.4,0,0,90.4661,0.3004
+Neuroburg,Drone,Rainy,Booming,Wednesday,14,33.9092,0,0,20.2806,0.039
+Ecoopolis,Drone,Snowy,Recession,Monday,2,60.3591,0,0,30.1796,0.0365
+AquaCity,Drone,Electromagnetic Storm,Recession,Saturday,3,69.1619,0,0,34.5809,0.144
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Thursday,9,36.1284,0,0,28.9028,0.082
+MetropolisX,Autonomous Vehicle,Clear,Booming,Monday,16,47.2525,0,0,42.9568,0.6262
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,23,90.6857,0,0,72.5486,0.1509
+MetropolisX,Autonomous Vehicle,Clear,Booming,Friday,1,54.4163,0,0,49.4694,0.499
+TechHaven,Autonomous Vehicle,Rainy,Booming,Wednesday,16,50.9707,0,0,48.7758,0.1266
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,21,66.7063,0,0,59.1054,0.0929
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Sunday,18,57.0109,0,0,54.5559,0.0252
+TechHaven,Autonomous Vehicle,Rainy,Recession,Friday,9,77.6664,0,0,74.3219,0.0524
+SolarisVille,Autonomous Vehicle,Clear,Booming,Friday,15,118.9758,0,0,95.1807,0.4377
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Friday,2,51.2364,0,1,46.5785,0.1339
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Friday,23,101.4044,0,0,81.1235,0.4073
+AquaCity,Autonomous Vehicle,Clear,Booming,Thursday,7,86.4,1,0,77.6366,0.3794
+SolarisVille,Autonomous Vehicle,Rainy,Booming,Tuesday,15,108,0,0,90.7329,0.4368
+TechHaven,Flying Car,Clear,Stable,Saturday,3,54.7819,0,0,74.7026,0.321
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Sunday,23,58.0477,0,0,46.4381,0.2848
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Wednesday,23,30.238,0,0,24.1904,0.1108
+TechHaven,Drone,Clear,Recession,Saturday,22,91.9595,0,0,52.2497,0.1143
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,23,89.0076,0,0,85.1747,0.3994
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Wednesday,2,86.9963,0,0,69.5971,0.1299
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,2,102.3327,0,0,81.8662,0.3576
+TechHaven,Autonomous Vehicle,Clear,Stable,Monday,21,51.768,0,0,43.5757,0.2198
+SolarisVille,Autonomous Vehicle,Rainy,Recession,Sunday,12,88.0118,1,0,70.4094,0.1812
+AquaCity,Autonomous Vehicle,Snowy,Recession,Tuesday,11,24.1403,0,0,19.3122,0.172
+Ecoopolis,Flying Car,Snowy,Recession,Friday,22,62.261,0,0,74.7133,0.1621
+AquaCity,Drone,Clear,Stable,Friday,4,48.1775,0,0,24.0887,0.8439
+Neuroburg,Drone,Electromagnetic Storm,Booming,Sunday,22,99.6795,0,0,59.6169,0.0678
+Ecoopolis,Flying Car,Electromagnetic Storm,Stable,Sunday,1,77.2954,0,0,92.7544,0.2504
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,4,95.9721,0,0,76.7777,0.5323
+AquaCity,Car,Snowy,Booming,Monday,7,31.5726,1,0,31.5726,0.7037
+AquaCity,Autonomous Vehicle,Clear,Recession,Sunday,2,91.0435,0,0,72.8348,0.2191
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Saturday,3,30.3772,0,0,24.3018,0.2722
+Neuroburg,Drone,Solar Flare,Recession,Tuesday,8,69.5065,1,0,31.5939,0.0748
+SolarisVille,Flying Car,Clear,Recession,Saturday,6,97.6174,0,0,117.1409,0.1841
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Tuesday,16,93.8207,0,0,75.0565,0.0752
+SolarisVille,Drone,Electromagnetic Storm,Stable,Tuesday,15,16.55,0,0,9.1944,0.673
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Friday,18,10.7575,1,0,9.5623,0.2807
+SolarisVille,Drone,Rainy,Stable,Thursday,16,103.6416,0,0,51.8208,0.3165
+AquaCity,Drone,Clear,Recession,Tuesday,11,111.0593,0,0,55.5296,0.2125
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,10,71.0149,0,0,67.9568,0.2785
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Wednesday,5,59.1954,0,0,47.3563,0.1103
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Monday,7,99.2403,1,0,75.9734,0.0897
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Wednesday,12,101.6786,0,0,81.3429,0.1135
+SolarisVille,Autonomous Vehicle,Clear,Stable,Friday,20,19.8163,0,0,17.6145,0.4972
+TechHaven,Car,Clear,Recession,Tuesday,16,28.2013,0,0,32.0469,0.154
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,4,110.4932,0,0,105.7351,0.4262
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Saturday,17,108,0,0,93.4907,0.4127
+Neuroburg,Autonomous Vehicle,Clear,Booming,Thursday,3,36.9121,0,0,33.5564,0.0664
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,4,63.7641,0,1,61.0183,0.3908
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Friday,18,30.8115,1,0,20.1605,0.0932
+AquaCity,Car,Solar Flare,Booming,Saturday,9,74.394,0,0,74.394,0.5984
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Thursday,14,84.2172,0,0,76.5611,0.0937
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Sunday,5,60.5497,0,0,55.0452,0.5216
+SolarisVille,Drone,Clear,Stable,Sunday,1,86.2117,0,1,43.1059,0.5791
+Ecoopolis,Drone,Electromagnetic Storm,Booming,Tuesday,3,47.3073,0,0,29.5671,0.1912
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Sunday,11,92.8034,0,0,74.2427,0.033
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,1,128.1008,0,0,102.4807,0.1017
+TechHaven,Drone,Clear,Recession,Sunday,13,100.9687,1,0,45.8948,0.1039
+MetropolisX,Flying Car,Clear,Stable,Wednesday,11,49.2396,0,0,67.1449,0.5346
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,15,43.2301,0,0,41.3685,0.3654
+Neuroburg,Drone,Snowy,Recession,Wednesday,14,47.7932,0,0,28.5844,0.0277
+AquaCity,Car,Electromagnetic Storm,Recession,Wednesday,12,42.6803,0,0,42.6803,0.3118
+AquaCity,Car,Rainy,Booming,Monday,5,72.2521,0,0,72.2521,0.6868
+SolarisVille,Drone,Snowy,Recession,Tuesday,11,87.5433,0,0,43.7716,0.0891
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Thursday,7,60.041,1,0,45.9644,0.0437
+AquaCity,Drone,Rainy,Recession,Monday,0,76.8909,0,0,38.4455,0.4237
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Sunday,21,89.9593,0,0,81.7812,0.3621
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Sunday,14,73.6103,1,0,58.8882,0.1488
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Sunday,6,33.76,0,0,32.3062,0.5245
+MetropolisX,Autonomous Vehicle,Clear,Recession,Sunday,7,24.969,0,0,22.6991,0.0842
+Ecoopolis,Drone,Electromagnetic Storm,Booming,Monday,14,38.7556,0,0,19.3778,0.2601
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,20,48.4575,0,0,38.766,0.0653
+Ecoopolis,Drone,Solar Flare,Booming,Saturday,13,44.5506,1,0,22.2753,0.2992
+MetropolisX,Drone,Snowy,Stable,Tuesday,23,64.1983,0,0,38.3961,0.5316
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Thursday,20,78.4187,0,0,69.7055,0.0769
+MetropolisX,Flying Car,Clear,Stable,Friday,16,115.3999,0,0,138.4799,0.7783
+AquaCity,Autonomous Vehicle,Snowy,Booming,Monday,4,25.0713,0,0,20.057,0.4406
+MetropolisX,Drone,Snowy,Stable,Friday,10,30.0047,0,0,17.9454,0.3999
+SolarisVille,Drone,Snowy,Booming,Sunday,15,54.4464,0,0,27.2232,0.2547
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Thursday,7,43.0097,1,0,38.2308,1.031
+TechHaven,Autonomous Vehicle,Rainy,Booming,Tuesday,14,68.2154,0,0,65.2779,0.2023
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Friday,15,67.9801,0,0,57.2464,0.7661
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,7,111.8032,0,1,89.4426,0.2038
+SolarisVille,Drone,Clear,Recession,Tuesday,4,42.23,0,0,21.115,0.0583
+SolarisVille,Flying Car,Electromagnetic Storm,Recession,Saturday,8,115.6822,0,0,138.8187,0.3469
+AquaCity,Flying Car,Rainy,Booming,Friday,22,35.809,0,0,42.9708,0.7462
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,15,74.498,0,0,71.29,0.2993
+SolarisVille,Drone,Clear,Recession,Thursday,7,77.5555,1,0,38.7778,0.1761
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Saturday,11,47.4878,0,0,45.4429,0.0898
+AquaCity,Flying Car,Snowy,Booming,Monday,12,13.2893,0,0,15.9471,0.4804
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Friday,13,30.4628,0,1,27.6934,0.2704
+AquaCity,Drone,Clear,Stable,Thursday,12,29.1702,0,0,14.5851,0.4406
+MetropolisX,Drone,Solar Flare,Booming,Wednesday,4,18.1986,0,1,10.3401,0.496
+Ecoopolis,Drone,Snowy,Recession,Saturday,21,72.1785,0,0,36.0892,0.0426
+AquaCity,Drone,Solar Flare,Booming,Wednesday,22,23.9182,0,0,11.9591,0.3724
+AquaCity,Autonomous Vehicle,Snowy,Recession,Friday,11,31.1007,0,0,24.8806,0.1673
+Neuroburg,Autonomous Vehicle,Clear,Recession,Wednesday,0,32.8722,0,0,29.8838,0.0283
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Tuesday,16,59.3819,0,0,47.5056,0.2291
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Wednesday,4,70.445,0,0,67.4114,0.0158
+SolarisVille,Car,Electromagnetic Storm,Stable,Saturday,14,52.5401,1,0,52.5401,0.3558
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Wednesday,2,41.5126,0,0,39.725,0.068
+TechHaven,Drone,Snowy,Booming,Tuesday,13,24.1249,0,0,14.4287,0.2656
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,14,36.1567,0,0,34.5997,0.1534
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Monday,6,34.1076,0,0,32.6388,0.104
+MetropolisX,Autonomous Vehicle,Clear,Recession,Saturday,0,23.8809,0,0,34.4602,0.3171
+AquaCity,Drone,Solar Flare,Recession,Saturday,6,88.01,0,0,44.005,0.0819
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Thursday,6,39.0966,0,0,31.2773,0.2357
+Neuroburg,Autonomous Vehicle,Clear,Booming,Sunday,15,54.9625,0,0,49.9659,0.0963
+Neuroburg,Drone,Snowy,Booming,Monday,21,71.9087,0,0,43.0076,0.0778
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Monday,8,91.9685,1,0,66.8862,0.1244
+MetropolisX,Drone,Electromagnetic Storm,Booming,Sunday,8,23.8793,0,0,14.2819,0.6039
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Monday,11,95.4743,0,0,76.3794,0.0596
+AquaCity,Flying Car,Electromagnetic Storm,Recession,Friday,13,57.326,0,0,68.7912,0.2907
+Ecoopolis,Drone,Clear,Recession,Tuesday,17,37.0886,1,0,18.5443,0.0887
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Wednesday,4,44.635,0,0,42.7129,0.0626
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,14,31.6009,1,0,29.5681,0.879
+Neuroburg,Drone,Rainy,Booming,Thursday,11,76.4138,0,0,45.7021,0.0962
+TechHaven,Drone,Rainy,Recession,Monday,20,89.3743,0,0,53.4536,0.0734
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Thursday,5,83.7293,0,1,66.9834,0.0803
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Monday,10,36.9129,0,0,33.5572,0.5321
+Ecoopolis,Autonomous Vehicle,Snowy,Recession,Wednesday,12,13.938,0,0,11.1504,0.0767
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Tuesday,7,91.933,1,0,70.3793,0.0913
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Monday,13,99.4945,0,0,90.4496,0.0993
+SolarisVille,Autonomous Vehicle,Solar Flare,Stable,Monday,22,90.2622,0,0,72.2097,0.1004
+TechHaven,Autonomous Vehicle,Rainy,Stable,Sunday,21,56.5087,0,0,54.0753,0.195
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Monday,17,76.8,1,0,84.6282,0.1766
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Sunday,5,20.4173,0,0,19.5381,0.2599
+SolarisVille,Autonomous Vehicle,Clear,Stable,Friday,3,120,0,0,97.1922,0.4443
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Monday,1,53.8758,0,0,43.1007,0.0529
+Ecoopolis,Flying Car,Solar Flare,Recession,Sunday,15,49.7949,0,0,59.7538,0.0497
+Neuroburg,Flying Car,Clear,Recession,Friday,22,53.7677,0,0,73.3196,0.0535
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Sunday,22,48.2996,0,0,46.2197,0.0223
+Ecoopolis,Drone,Snowy,Stable,Thursday,13,62.8687,0,0,31.4343,0.1112
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Monday,17,63.7499,1,0,53.6841,0.6498
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Wednesday,1,85.4688,0,0,68.3751,0.0774
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,10,67.9226,0,1,64.9977,0.2161
+SolarisVille,Flying Car,Electromagnetic Storm,Booming,Friday,19,49.426,0,0,59.3112,0.7311
+MetropolisX,Flying Car,Electromagnetic Storm,Booming,Sunday,9,29.4265,0,0,42.239,0.4417
+TechHaven,Drone,Electromagnetic Storm,Recession,Wednesday,4,47.3708,0,0,28.3318,0.0473
+MetropolisX,Drone,Rainy,Stable,Wednesday,13,27.0182,0,0,16.1592,0.3634
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,7,72.8782,0,0,58.3026,0.3951
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,15,22.6003,0,0,21.6271,0.2126
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Sunday,19,89.9907,0,0,81.8097,0.0385
+Neuroburg,Drone,Rainy,Stable,Tuesday,20,19.1713,0,0,11.4661,0.0476
+AquaCity,Autonomous Vehicle,Snowy,Recession,Sunday,21,67.3053,0,0,59.8269,0.2575
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Thursday,3,43.3509,0,0,41.4841,0.086
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Sunday,0,31.3208,0,0,28.4735,0.0937
+Neuroburg,Drone,Solar Flare,Stable,Sunday,10,28.5028,0,0,16.1947,0.0977
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Tuesday,11,43.2665,0,0,41.4034,0.2364
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Thursday,6,49.6821,0,0,47.5427,0.1076
+Ecoopolis,Autonomous Vehicle,Snowy,Stable,Friday,14,86.4,0,0,70.5502,0.2005
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Sunday,7,73.4291,0,0,58.7432,0.2099
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Monday,4,15.6297,0,0,14.2088,0.2388
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Saturday,18,79.6881,0,0,70.8339,0.593
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Wednesday,11,73.7515,0,0,59.0012,0.205
+MetropolisX,Drone,Solar Flare,Booming,Thursday,2,68.6737,0,0,47.6901,0.9552
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,9,25.5062,0,0,20.4049,0.1682
+TechHaven,Autonomous Vehicle,Snowy,Booming,Monday,5,42.5208,0,0,40.6898,0.3982
+AquaCity,Flying Car,Electromagnetic Storm,Booming,Friday,22,71.8522,0,0,86.2227,0.7419
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Thursday,11,45.1324,0,0,41.0295,0.0898
+Ecoopolis,Drone,Snowy,Stable,Wednesday,18,69.12,1,0,53.8234,0.2134
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Monday,3,45.6356,0,0,36.5085,0.0458
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,14,79.3001,1,0,60.7082,0.0092
+Neuroburg,Drone,Rainy,Booming,Wednesday,8,35.4331,1,0,16.9536,0.1125
+TechHaven,Drone,Electromagnetic Storm,Booming,Wednesday,14,75.8,0,0,45.335,0.2561
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Sunday,19,14.7729,0,0,14.1368,0.0742
+AquaCity,Flying Car,Snowy,Recession,Monday,11,46.1239,0,0,55.3487,0.2122
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Sunday,8,77.3218,0,1,68.7305,0.1252
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Saturday,22,80.6097,0,0,73.2816,0.1453
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Tuesday,1,107.8674,0,0,103.2224,0.0735
+TechHaven,Autonomous Vehicle,Solar Flare,Booming,Wednesday,2,37.1045,0,0,33.7314,0.3204
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Saturday,0,53.0343,0,0,50.7505,0.0739
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Wednesday,0,28.1047,0,1,22.4837,0.2269
+AquaCity,Autonomous Vehicle,Rainy,Stable,Saturday,12,75.7323,1,0,60.5858,0.2962
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,11,96,0,0,80.0896,0.1806
+Ecoopolis,Drone,Rainy,Recession,Thursday,9,95.04,0,0,56.9856,0.0688
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Friday,19,23.0259,0,0,18.8328,0.0568
+AquaCity,Car,Snowy,Recession,Saturday,8,64.4561,0,0,64.4561,0.3251
+AquaCity,Autonomous Vehicle,Rainy,Recession,Thursday,7,48.5846,1,0,43.1863,0.1526
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,13,107.3027,0,0,85.8422,0.5126
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,8,82.2687,1,0,62.9809,0.4052
+Ecoopolis,Autonomous Vehicle,Solar Flare,Booming,Thursday,23,55.3643,0,0,44.2914,0.2157
+SolarisVille,Autonomous Vehicle,Snowy,Stable,Sunday,17,28.7105,0,0,22.9684,0.4192
+SolarisVille,Car,Solar Flare,Recession,Tuesday,7,40.004,1,0,40.004,0.0411
+MetropolisX,Autonomous Vehicle,Clear,Booming,Thursday,9,101.2189,0,0,92.0172,0.6903
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Tuesday,18,36.7868,1,0,32.6994,0.1278
+Ecoopolis,Autonomous Vehicle,Clear,Stable,Sunday,16,39.9378,0,0,31.9503,0.2751
+SolarisVille,Drone,Snowy,Stable,Saturday,12,84.4003,1,0,42.2001,0.4076
+SolarisVille,Flying Car,Electromagnetic Storm,Booming,Tuesday,21,34.6738,0,0,41.6085,0.4563
+AquaCity,Autonomous Vehicle,Snowy,Stable,Wednesday,8,53.9807,1,0,43.1846,0.3655
+SolarisVille,Car,Electromagnetic Storm,Recession,Wednesday,21,99.0049,0,0,99.0049,0.3418
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,14,36.089,1,0,28.8712,0.5238
+Ecoopolis,Drone,Clear,Stable,Friday,16,38.1246,0,0,19.0623,0.217
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,19,87.6416,0,0,70.1133,0.582
+Ecoopolis,Drone,Solar Flare,Booming,Tuesday,7,39.2008,1,0,19.6004,0.2011
+TechHaven,Autonomous Vehicle,Rainy,Booming,Saturday,9,60.8614,0,0,58.2406,0.2915
+TechHaven,Drone,Clear,Recession,Friday,0,27.299,0,0,15.5108,0.1047
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Wednesday,7,40.3411,1,0,32.2729,0.0783
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Monday,13,40.0662,0,0,46.8611,0.9603
+AquaCity,Autonomous Vehicle,Rainy,Stable,Thursday,0,18.5675,0,0,14.854,0.322
+TechHaven,Autonomous Vehicle,Snowy,Booming,Saturday,1,26.8132,0,0,25.6585,0.176
+Ecoopolis,Drone,Solar Flare,Stable,Saturday,9,63.8423,0,0,31.9211,0.8098
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Friday,22,139.7853,0,0,111.8283,0.7336
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,0,52.5678,0,0,50.3041,0.1985
+TechHaven,Drone,Clear,Stable,Monday,7,55.4079,1,1,25.1854,0.2715
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Sunday,11,84.8347,0,0,81.1816,0.2272
+SolarisVille,Flying Car,Snowy,Recession,Saturday,18,88.6424,0,0,106.3709,0.074
+SolarisVille,Flying Car,Solar Flare,Stable,Wednesday,5,62.3531,0,0,74.8237,0.2005
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Tuesday,17,57.613,1,0,44.1056,0.2496
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Saturday,21,76.129,0,1,67.6702,0.0293
+SolarisVille,Autonomous Vehicle,Clear,Stable,Monday,18,59.4877,1,0,52.878,0.2655
+TechHaven,Autonomous Vehicle,Rainy,Stable,Monday,8,99.3168,1,0,77.3954,0.29
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Friday,1,45.7917,0,0,43.8198,0.1028
+SolarisVille,Drone,Rainy,Booming,Sunday,11,44.5167,0,0,22.2583,0.3508
+MetropolisX,Autonomous Vehicle,Clear,Recession,Wednesday,0,65.6212,0,0,59.6557,0.1497
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Friday,21,76.5289,0,0,68.0257,0.36
+Ecoopolis,Drone,Solar Flare,Booming,Sunday,19,79.5332,0,0,39.7666,0.2941
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,22,40.7173,0,0,38.9639,0.0887
+SolarisVille,Drone,Solar Flare,Booming,Monday,17,49.0128,1,0,24.5064,0.1744
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Friday,21,33.2134,0,0,27.1651,0.0514
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Tuesday,16,109.5033,0,0,104.7878,0.1005
+Ecoopolis,Drone,Rainy,Recession,Thursday,23,32.8322,0,0,16.4161,0.0533
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Tuesday,14,18.0843,0,0,16.4403,0.133
+SolarisVille,Drone,Clear,Stable,Thursday,21,106.8116,0,0,59.3398,0.4987
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,21,21.7386,0,0,19.3232,0.2374
+Neuroburg,Drone,Clear,Booming,Monday,6,81.2521,0,0,46.166,0.1076
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Thursday,12,82.2689,0,0,78.7262,0.1104
+AquaCity,Autonomous Vehicle,Snowy,Recession,Thursday,20,44.9716,0,0,39.9747,0.2443
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,23,75.5068,0,1,72.2553,0.0809
+TechHaven,Autonomous Vehicle,Clear,Booming,Tuesday,4,32.9732,0,0,29.9757,0.2336
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,4,52.4744,0,0,41.9795,0.0578
+SolarisVille,Car,Rainy,Booming,Sunday,16,74.5429,0,0,74.5429,0.5399
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Saturday,15,53.0133,0,0,50.7304,0.0583
+SolarisVille,Autonomous Vehicle,Clear,Recession,Monday,17,74.6293,1,1,59.7035,0.1509
+MetropolisX,Car,Clear,Recession,Monday,20,42.543,0,0,48.3443,0.2181
+AquaCity,Autonomous Vehicle,Solar Flare,Booming,Monday,8,26.7105,1,0,21.3684,0.4526
+AquaCity,Car,Solar Flare,Recession,Sunday,1,60.1881,0,0,60.1881,0.3464
+AquaCity,Autonomous Vehicle,Snowy,Booming,Thursday,11,25.5697,0,0,20.4558,0.4806
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Wednesday,15,29.2551,0,0,26.5956,0.3859
+Neuroburg,Drone,Rainy,Recession,Monday,22,43.7262,0,0,26.152,0.0412
+AquaCity,Drone,Rainy,Stable,Saturday,23,58.403,0,0,29.2015,0.8948
+MetropolisX,Autonomous Vehicle,Clear,Recession,Thursday,5,53.1238,0,0,48.2943,0.247
+MetropolisX,Drone,Rainy,Recession,Friday,12,30.8982,0,0,18.4798,0.2641
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Tuesday,11,41.7099,0,0,33.3679,0.1968
+MetropolisX,Drone,Solar Flare,Stable,Monday,6,100.1333,0,0,56.8939,0.54
+SolarisVille,Drone,Solar Flare,Recession,Tuesday,16,106.9147,0,0,53.4574,0.1022
+TechHaven,Drone,Electromagnetic Storm,Stable,Wednesday,12,72.1037,0,0,43.1242,0.1936
+SolarisVille,Flying Car,Electromagnetic Storm,Booming,Thursday,11,55.6242,0,0,66.749,0.3206
+Neuroburg,Drone,Snowy,Stable,Monday,16,58.4855,0,0,34.9794,0.0877
+AquaCity,Autonomous Vehicle,Snowy,Stable,Sunday,10,29.6898,0,0,26.3909,0.6106
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Monday,5,42.5626,0,0,34.0501,0.2345
+AquaCity,Autonomous Vehicle,Snowy,Booming,Friday,23,38.8505,0,0,31.0804,0.5444
+AquaCity,Car,Solar Flare,Recession,Wednesday,14,105.9612,0,0,117.7347,0.1734
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Wednesday,7,105.6,1,0,95.5779,0.116
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Wednesday,16,22.6112,0,0,21.6376,0.0354
+Neuroburg,Drone,Snowy,Recession,Wednesday,1,33.3881,0,0,19.969,0.0314
+SolarisVille,Drone,Electromagnetic Storm,Stable,Saturday,18,49.882,0,0,24.941,0.3129
+Neuroburg,Drone,Electromagnetic Storm,Booming,Tuesday,5,50.439,0,0,30.1669,0.2112
+SolarisVille,Drone,Clear,Recession,Friday,13,60.738,0,0,33.7433,0.0635
+TechHaven,Flying Car,Clear,Recession,Saturday,7,82.9349,0,0,113.093,0.1629
+SolarisVille,Drone,Rainy,Stable,Monday,14,22.868,0,0,11.434,0.2618
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Thursday,18,126.4971,1,0,82.7691,0.0299
+AquaCity,Car,Rainy,Booming,Thursday,3,37.2761,0,0,37.2761,0.4344
+AquaCity,Autonomous Vehicle,Rainy,Booming,Friday,17,36.345,1,0,29.076,0.4853
+TechHaven,Autonomous Vehicle,Snowy,Stable,Saturday,13,83.0243,1,0,63.5593,0.1465
+TechHaven,Drone,Clear,Booming,Sunday,11,16.1039,0,0,14.2967,0.2124
+AquaCity,Autonomous Vehicle,Clear,Booming,Monday,23,63.1221,0,0,50.4977,0.4458
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,16,87.1505,0,0,83.3976,0.3072
+Ecoopolis,Flying Car,Snowy,Stable,Wednesday,17,69.12,1,0,86.289,0.3319
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Wednesday,5,81.6699,0,0,74.2454,0.0391
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,7,21.7501,1,1,16.6508,0.1976
+AquaCity,Flying Car,Snowy,Booming,Thursday,9,72.4192,0,0,86.9031,0.6776
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Wednesday,8,108.3456,1,0,85.3531,0.0935
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Wednesday,14,76.8,0,0,82.8918,0.199
+MetropolisX,Autonomous Vehicle,Clear,Booming,Sunday,8,97.2258,0,1,88.3871,0.5241
+SolarisVille,Flying Car,Snowy,Booming,Tuesday,18,28.1019,1,0,33.7223,0.3728
+AquaCity,Autonomous Vehicle,Rainy,Stable,Tuesday,12,33.8836,0,0,27.1069,0.5815
+TechHaven,Autonomous Vehicle,Rainy,Booming,Monday,12,75.7078,0,0,72.4476,0.193
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,0,69.805,0,0,66.799,0.2362
+Ecoopolis,Autonomous Vehicle,Rainy,Stable,Monday,10,66.9826,0,0,53.5861,0.2151
+AquaCity,Drone,Rainy,Recession,Tuesday,10,66.3455,0,0,36.8586,0.223
+AquaCity,Autonomous Vehicle,Rainy,Stable,Friday,12,38.2765,0,1,30.6212,0.5617
+AquaCity,Autonomous Vehicle,Clear,Booming,Thursday,23,108,0,0,86.8012,0.5276
+Neuroburg,Drone,Snowy,Booming,Saturday,10,36.2486,0,0,21.6798,0.0667
+Ecoopolis,Drone,Snowy,Stable,Sunday,2,56.2965,0,0,28.1483,0.3169
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Sunday,0,78.6472,0,0,75.2605,0.1323
+TechHaven,Autonomous Vehicle,Snowy,Recession,Friday,6,75.8312,0,0,72.5658,0.0544
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Friday,14,117.6551,0,0,106.9591,0.4467
+AquaCity,Autonomous Vehicle,Clear,Recession,Wednesday,17,66.9099,1,0,53.5279,0.149
+Ecoopolis,Autonomous Vehicle,Solar Flare,Stable,Wednesday,2,40.5689,0,0,32.4551,0.1786
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Thursday,6,86.4376,0,0,69.1501,0.1307
+Neuroburg,Autonomous Vehicle,Solar Flare,Stable,Saturday,20,92.0389,0,0,83.6717,0.07
+Neuroburg,Drone,Solar Flare,Recession,Tuesday,5,66.5388,0,0,37.8062,0.0483
+TechHaven,Autonomous Vehicle,Snowy,Recession,Thursday,15,46.3062,0,0,44.3122,0.0467
+AquaCity,Car,Snowy,Recession,Tuesday,8,70.8289,1,0,70.8289,0.1481
+TechHaven,Autonomous Vehicle,Rainy,Booming,Wednesday,9,36.0923,0,0,34.5381,0.186
+AquaCity,Flying Car,Snowy,Stable,Saturday,6,15.6429,0,0,18.7715,0.3873
+AquaCity,Flying Car,Solar Flare,Recession,Thursday,22,36.143,0,0,43.3716,0.2148
+MetropolisX,Autonomous Vehicle,Clear,Recession,Friday,2,28.0924,0,1,25.5385,0.1306
+TechHaven,Autonomous Vehicle,Snowy,Booming,Tuesday,21,85.7202,0,0,75.9526,0.1198
+AquaCity,Autonomous Vehicle,Rainy,Booming,Sunday,7,70.4462,0,0,56.357,0.4961
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,22,76.6716,0,0,73.3699,0.2927
+MetropolisX,Drone,Rainy,Recession,Tuesday,22,91.9085,0,0,54.9692,0.1477
+MetropolisX,Drone,Snowy,Recession,Friday,23,42.0088,0,0,25.1249,0.2315
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,16,96,0,0,90.3009,0.3279
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Sunday,3,56.2236,0,0,53.8025,0.0303
+SolarisVille,Autonomous Vehicle,Clear,Booming,Wednesday,21,94.2788,0,0,83.8034,0.5535
+Neuroburg,Autonomous Vehicle,Snowy,Recession,Wednesday,20,66.8692,0,0,54.692,0.0736
+Neuroburg,Drone,Solar Flare,Recession,Sunday,1,30.9074,0,0,17.561,0.0289
+AquaCity,Drone,Electromagnetic Storm,Booming,Sunday,18,47.2123,0,0,23.6062,0.4034
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Sunday,13,21.0759,1,0,16.8607,0.7564
+Ecoopolis,Drone,Rainy,Stable,Tuesday,6,65.1576,0,0,32.5788,0.2135
+TechHaven,Flying Car,Rainy,Stable,Saturday,3,40.3692,0,0,57.9462,0.2331
+SolarisVille,Autonomous Vehicle,Clear,Stable,Friday,13,32.8488,0,0,26.2791,0.5394
+Neuroburg,Drone,Rainy,Booming,Thursday,13,46.434,0,0,27.7715,0.0422
+Ecoopolis,Flying Car,Rainy,Booming,Tuesday,4,67.974,0,0,81.5688,0.2414
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Recession,Saturday,3,65.917,0,0,52.7336,0.1925
+AquaCity,Car,Electromagnetic Storm,Recession,Friday,5,101.7469,0,0,101.7469,0.1778
+Neuroburg,Drone,Electromagnetic Storm,Stable,Saturday,16,28.3964,0,0,16.9835,0.0481
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,18,84.4565,1,0,75.0724,0.0643
+Neuroburg,Drone,Snowy,Stable,Thursday,3,22.5843,0,0,13.5074,0.1349
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Saturday,4,62.0577,0,0,72.5821,0.9123
+TechHaven,Autonomous Vehicle,Snowy,Stable,Tuesday,1,45.5972,0,0,43.6337,0.1716
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Monday,13,106.6807,0,0,102.0868,0.0294
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,18,39.2592,0,0,37.5686,0.1974
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Stable,Tuesday,4,87.9862,0,0,74.0937,0.8838
+MetropolisX,Autonomous Vehicle,Clear,Recession,Sunday,2,88.2764,0,0,80.2512,0.2569
+MetropolisX,Autonomous Vehicle,Snowy,Booming,Tuesday,1,33.826,0,0,32.3694,0.3346
+Ecoopolis,Drone,Solar Flare,Stable,Wednesday,18,73.1424,1,0,36.5712,0.1986
+Ecoopolis,Autonomous Vehicle,Clear,Recession,Thursday,14,105.6,0,0,91.0772,0.0269
+SolarisVille,Drone,Solar Flare,Stable,Wednesday,3,19.9243,0,0,11.0691,0.2096
+AquaCity,Drone,Electromagnetic Storm,Booming,Friday,13,75.5337,0,0,47.2086,0.5043
+Neuroburg,Drone,Solar Flare,Recession,Thursday,22,47.2151,0,0,26.8268,0.0443
+Ecoopolis,Drone,Rainy,Booming,Wednesday,0,86.4,0,1,50.1991,0.3417
+SolarisVille,Drone,Clear,Recession,Friday,9,31.7057,0,0,15.8528,0.1045
+SolarisVille,Flying Car,Rainy,Stable,Sunday,3,31.3316,0,0,37.5979,0.7866
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Friday,16,127.8347,0,0,102.2678,0.778
+SolarisVille,Autonomous Vehicle,Rainy,Stable,Wednesday,4,38.4916,0,0,30.7932,0.3509
+MetropolisX,Autonomous Vehicle,Clear,Recession,Friday,15,22.9318,0,0,20.8471,0.0898
+AquaCity,Car,Clear,Stable,Monday,15,52.2986,0,0,52.2986,0.5346
+MetropolisX,Drone,Clear,Recession,Tuesday,5,80.269,0,0,45.6074,0.3369
+TechHaven,Drone,Snowy,Recession,Sunday,2,40.1444,0,0,24.0098,0.1373
+SolarisVille,Drone,Snowy,Recession,Saturday,5,83.2817,0,1,41.6408,0.0627
+Neuroburg,Autonomous Vehicle,Rainy,Recession,Tuesday,21,80.8835,0,0,66.1543,0.0123
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,8,80.7177,0,0,77.2418,0.3192
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,3,43.2962,0,0,41.4317,0.4021
+MetropolisX,Drone,Rainy,Booming,Monday,16,96.3159,0,0,57.6052,0.5886
+Neuroburg,Autonomous Vehicle,Rainy,Stable,Tuesday,22,92.0717,0,0,88.1069,0.0717
+Ecoopolis,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,19,55.0031,0,1,48.8917,0.082
+MetropolisX,Car,Clear,Recession,Monday,18,88.9213,1,1,80.8376,0.4146
+SolarisVille,Autonomous Vehicle,Clear,Stable,Sunday,8,100.6835,0,0,89.4964,0.2376
+SolarisVille,Flying Car,Clear,Booming,Thursday,0,53.6881,0,0,64.4258,0.375
+AquaCity,Flying Car,Electromagnetic Storm,Stable,Wednesday,15,95.0662,0,0,114.0794,0.4379
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Wednesday,15,65.5285,0,0,62.7067,0.0508
+AquaCity,Autonomous Vehicle,Rainy,Stable,Thursday,11,23.6191,0,0,20.9948,0.5253
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Stable,Monday,19,91.4649,0,0,81.0428,0.111
+TechHaven,Autonomous Vehicle,Snowy,Recession,Sunday,11,67.2293,0,0,64.3342,0.1091
+TechHaven,Drone,Snowy,Stable,Wednesday,6,42.9321,0,0,25.6771,0.2523
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Tuesday,22,76.5835,0,0,61.2668,0.208
+Neuroburg,Autonomous Vehicle,Clear,Booming,Friday,11,75.0643,0,0,68.2402,0.1203
+MetropolisX,Autonomous Vehicle,Solar Flare,Booming,Sunday,6,115.6036,0,0,105.0942,0.3473
+TechHaven,Drone,Snowy,Booming,Thursday,21,25.2643,0,0,15.1102,0.2542
+AquaCity,Flying Car,Snowy,Stable,Tuesday,3,22.8038,0,0,30.405,0.7819
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Monday,22,67.0003,0,0,53.6002,0.0828
+SolarisVille,Drone,Solar Flare,Booming,Wednesday,17,14.3482,1,0,8.9676,0.1883
+TechHaven,Autonomous Vehicle,Rainy,Recession,Sunday,14,103.1831,1,0,78.9918,0.0762
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Wednesday,5,74.0792,0,0,67.3447,0.1904
+TechHaven,Drone,Electromagnetic Storm,Stable,Sunday,17,16.9524,0,0,10.139,0.232
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Tuesday,5,120.384,0,0,116.1273,0.1022
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,3,100.6574,0,0,96.3229,0.1263
+Neuroburg,Drone,Clear,Recession,Thursday,10,79.271,0,0,45.0403,0.0123
+Neuroburg,Autonomous Vehicle,Snowy,Stable,Monday,10,92.5849,0,0,88.598,0.0677
+SolarisVille,Autonomous Vehicle,Clear,Booming,Monday,2,100.9798,0,0,80.7838,0.4633
+Ecoopolis,Autonomous Vehicle,Clear,Booming,Monday,6,74.596,0,0,59.6768,0.1502
+AquaCity,Drone,Electromagnetic Storm,Booming,Wednesday,1,35.9587,0,0,17.9793,0.7964
+AquaCity,Autonomous Vehicle,Clear,Stable,Friday,22,27.7039,0,0,22.1631,0.3732
+MetropolisX,Autonomous Vehicle,Rainy,Recession,Sunday,20,63.6772,0,0,60.9352,0.152
+MetropolisX,Drone,Solar Flare,Booming,Sunday,21,62.2916,0,0,35.393,0.346
+MetropolisX,Autonomous Vehicle,Clear,Recession,Sunday,2,21.4818,0,0,30.9983,0.17
+MetropolisX,Autonomous Vehicle,Clear,Booming,Sunday,0,31.9694,0,0,35.5215,0.9095
+Ecoopolis,Drone,Snowy,Booming,Thursday,2,86.4,0,0,45.0995,0.3603
+TechHaven,Drone,Clear,Recession,Thursday,17,27.4158,1,0,12.4617,0.1077
+AquaCity,Autonomous Vehicle,Electromagnetic Storm,Stable,Saturday,20,25.6862,0,0,20.5489,0.4516
+AquaCity,Autonomous Vehicle,Clear,Booming,Tuesday,0,60.5015,0,0,48.4012,0.5666
+AquaCity,Autonomous Vehicle,Snowy,Recession,Thursday,1,20.0016,0,0,16.0013,0.2006
+Ecoopolis,Drone,Rainy,Booming,Wednesday,19,36.9707,0,0,18.4854,0.2452
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Tuesday,12,41.6985,0,0,33.3588,0.3882
+TechHaven,Autonomous Vehicle,Clear,Stable,Saturday,3,87.5041,0,0,79.5492,0.258
+AquaCity,Flying Car,Rainy,Stable,Thursday,13,20.1911,0,0,24.2294,1.1036
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Wednesday,17,55.296,1,0,91.5678,0.1219
+TechHaven,Autonomous Vehicle,Rainy,Recession,Saturday,5,82.4498,0,0,78.8993,0.0284
+SolarisVille,Flying Car,Clear,Recession,Wednesday,18,104.3594,1,0,125.2313,0.0808
+Ecoopolis,Drone,Rainy,Booming,Monday,1,33.6823,0,0,16.8412,0.3195
+TechHaven,Flying Car,Rainy,Recession,Saturday,3,51.374,0,0,73.7426,0.1532
+TechHaven,Drone,Snowy,Stable,Thursday,16,76.944,0,0,46.0191,0.2349
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Tuesday,11,76.9471,0,0,69.9519,0.223
+TechHaven,Autonomous Vehicle,Snowy,Booming,Monday,6,94.3048,0,0,90.2438,0.238
+AquaCity,Flying Car,Solar Flare,Recession,Wednesday,1,118.8,0,0,142.9888,0.2387
+Neuroburg,Drone,Electromagnetic Storm,Stable,Wednesday,19,32.1781,0,0,19.2453,0.0691
+Ecoopolis,Autonomous Vehicle,Snowy,Booming,Monday,15,28.1198,0,0,22.4959,0.1814
+Ecoopolis,Drone,Snowy,Recession,Friday,14,67.5469,0,0,33.7735,0.1101
+SolarisVille,Drone,Clear,Stable,Tuesday,17,31.1548,1,1,15.5774,0.5091
+AquaCity,Drone,Clear,Stable,Saturday,1,94.5603,0,0,47.2801,0.6157
+TechHaven,Autonomous Vehicle,Snowy,Recession,Thursday,16,107.0725,0,0,102.4617,0.0781
+SolarisVille,Drone,Clear,Stable,Saturday,9,71.3848,0,0,35.6924,0.5976
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Monday,3,25.5735,0,0,24.4722,0.3115
+MetropolisX,Drone,Electromagnetic Storm,Booming,Friday,16,95.2854,0,0,56.9889,0.5577
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,20,119.2404,0,0,97.5262,0.021
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Sunday,3,50.9032,0,0,40.7226,0.1696
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Thursday,11,95.04,0,0,79.8095,0.0503
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Saturday,19,36.4019,0,0,34.8343,0.0611
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Wednesday,11,38.1176,0,0,30.4941,0.0454
+TechHaven,Drone,Solar Flare,Booming,Friday,4,105.1085,0,0,59.7207,0.2591
+Neuroburg,Drone,Electromagnetic Storm,Stable,Thursday,7,105.5787,1,0,50.5161,0.1585
+Ecoopolis,Car,Solar Flare,Stable,Monday,22,86.153,0,0,86.153,0.1812
+Ecoopolis,Autonomous Vehicle,Solar Flare,Recession,Tuesday,17,76.7276,1,1,61.3821,0.1443
+MetropolisX,Autonomous Vehicle,Clear,Recession,Sunday,22,77.2939,0,0,70.2672,0.2367
+Neuroburg,Drone,Solar Flare,Stable,Wednesday,0,23.0941,0,0,13.1217,0.0762
+MetropolisX,Flying Car,Solar Flare,Stable,Monday,18,59.8302,1,0,65.2693,0.5622
+Neuroburg,Drone,Snowy,Recession,Friday,15,24.4421,0,0,14.6185,0.025
+MetropolisX,Autonomous Vehicle,Solar Flare,Recession,Monday,4,103.3735,0,0,93.9759,0.1687
+Ecoopolis,Drone,Electromagnetic Storm,Booming,Monday,18,76.8,1,0,46.8185,0.3668
+AquaCity,Autonomous Vehicle,Snowy,Stable,Saturday,1,61.8408,0,0,49.4726,0.5276
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Wednesday,21,55.0535,0,0,42.7766,0.0387
+MetropolisX,Flying Car,Solar Flare,Recession,Wednesday,21,81.2424,0,0,110.7851,0.2739
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Wednesday,2,59.3283,0,0,56.7735,0.1058
+SolarisVille,Autonomous Vehicle,Snowy,Recession,Sunday,3,91.6387,0,0,73.311,0.0844
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Recession,Thursday,14,62.8435,0,0,60.1373,0.1974
+MetropolisX,Autonomous Vehicle,Clear,Booming,Sunday,6,19.5708,0,0,17.7917,0.6105
+MetropolisX,Drone,Solar Flare,Recession,Saturday,12,43.6905,1,0,19.8593,0.0781
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Sunday,16,86.9347,0,0,79.0315,0.113
+MetropolisX,Drone,Rainy,Recession,Friday,10,55.4366,0,0,33.1559,0.3257
+SolarisVille,Car,Solar Flare,Recession,Monday,2,30.087,0,0,33.43,0.081
+AquaCity,Flying Car,Clear,Booming,Monday,13,108,0,0,143.1921,0.4156
+Ecoopolis,Car,Clear,Stable,Tuesday,5,82.2978,0,0,82.2978,0.4152
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Tuesday,13,61.2245,0,0,58.588,0.2464
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Friday,8,81.0603,1,0,64.8483,0.3779
+Neuroburg,Drone,Snowy,Recession,Friday,5,17.8784,0,1,10.6928,0.0309
+AquaCity,Autonomous Vehicle,Solar Flare,Stable,Wednesday,10,108,0,0,89.5676,0.4637
+AquaCity,Drone,Solar Flare,Stable,Friday,16,87.2563,0,0,43.6282,0.7143
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Friday,3,45.7469,0,0,43.777,0.1151
+SolarisVille,Drone,Snowy,Stable,Monday,3,69.7147,0,0,38.7304,0.3985
+AquaCity,Car,Solar Flare,Booming,Tuesday,16,107.967,0,1,107.967,0.6115
+TechHaven,Car,Snowy,Booming,Thursday,7,44.7734,1,0,42.8454,0.5966
+TechHaven,Autonomous Vehicle,Rainy,Booming,Friday,20,83.6868,0,0,74.151,0.2176
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Friday,3,86.042,0,0,82.3369,0.0715
+Neuroburg,Drone,Rainy,Booming,Thursday,20,49.9585,0,0,29.8795,0.0906
+Ecoopolis,Autonomous Vehicle,Rainy,Recession,Wednesday,6,47.0654,0,0,37.6523,0.1675
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Booming,Sunday,1,64.5579,0,0,61.7779,0.059
+MetropolisX,Autonomous Vehicle,Clear,Recession,Friday,10,104.1601,0,0,94.691,0.2076
+SolarisVille,Autonomous Vehicle,Solar Flare,Booming,Sunday,0,84.0518,0,0,67.2414,0.2081
+SolarisVille,Drone,Clear,Booming,Tuesday,7,45.499,1,0,22.7495,0.5002
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Sunday,18,69.7964,0,0,66.7908,0.1833
+Neuroburg,Autonomous Vehicle,Electromagnetic Storm,Stable,Thursday,18,140.8493,1,1,105.1104,0.0761
+TechHaven,Autonomous Vehicle,Electromagnetic Storm,Recession,Friday,16,91.3077,0,0,87.3758,0.0832
+Neuroburg,Drone,Snowy,Recession,Saturday,16,96.4141,0,0,57.6639,0.0144
+Ecoopolis,Car,Electromagnetic Storm,Booming,Sunday,18,70.3833,0,0,70.3833,0.473
+AquaCity,Car,Snowy,Booming,Thursday,12,44.4641,0,0,44.4641,0.4464
+SolarisVille,Drone,Solar Flare,Booming,Wednesday,18,76.3368,1,0,38.1684,0.1068
+Neuroburg,Autonomous Vehicle,Rainy,Booming,Saturday,12,74.2589,1,0,56.8489,0.0745
+Neuroburg,Drone,Clear,Stable,Sunday,17,21.3671,0,0,12.1404,0.0911
+TechHaven,Autonomous Vehicle,Clear,Recession,Monday,15,28.9875,0,0,26.3523,0.0767
+AquaCity,Autonomous Vehicle,Clear,Stable,Tuesday,23,100.7011,0,0,80.5608,0.533
+AquaCity,Flying Car,Rainy,Booming,Tuesday,13,37.3967,0,0,44.876,0.8178
+AquaCity,Autonomous Vehicle,Snowy,Booming,Thursday,11,33.9689,0,0,27.1751,0.3089
+Neuroburg,Autonomous Vehicle,Snowy,Booming,Monday,14,49.0344,0,0,46.9228,0.0643
+SolarisVille,Autonomous Vehicle,Electromagnetic Storm,Stable,Sunday,8,63.265,0,0,50.612,0.4152
+AquaCity,Autonomous Vehicle,Snowy,Stable,Wednesday,2,24.9031,0,0,19.9225,0.5848
+SolarisVille,Drone,Solar Flare,Recession,Tuesday,7,40.6455,1,0,20.3227,0.0603
+AquaCity,Drone,Snowy,Stable,Saturday,18,37.955,0,0,18.9775,0.6977
+TechHaven,Autonomous Vehicle,Solar Flare,Stable,Saturday,17,53.3017,0,0,48.4561,0.2298
+AquaCity,Autonomous Vehicle,Rainy,Recession,Monday,11,34.9133,0,0,27.9306,0.4679
+TechHaven,Drone,Rainy,Stable,Tuesday,23,64.2683,0,0,38.438,0.2024
+SolarisVille,Autonomous Vehicle,Solar Flare,Recession,Wednesday,7,46.281,1,0,37.0248,0.0295
+SolarisVille,Drone,Snowy,Stable,Wednesday,4,55.603,0,1,27.8015,0.3613
+TechHaven,Autonomous Vehicle,Rainy,Recession,Sunday,6,72.4845,0,0,69.3631,0.032
+SolarisVille,Autonomous Vehicle,Rainy,Stable,Tuesday,6,76.8188,0,0,61.455,0.4974
+MetropolisX,Autonomous Vehicle,Rainy,Stable,Sunday,22,32.2696,0,0,27.1744,1.0162
+MetropolisX,Autonomous Vehicle,Snowy,Stable,Thursday,12,104.1719,0,0,99.686,0.4371
+Neuroburg,Autonomous Vehicle,Solar Flare,Recession,Friday,8,26.3839,1,0,19.1883,0.0568
+TechHaven,Drone,Electromagnetic Storm,Stable,Wednesday,10,40.5611,0,0,24.2591,0.1878
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Saturday,19,36.7839,0,0,35.1999,0.1874
+MetropolisX,Autonomous Vehicle,Solar Flare,Stable,Sunday,7,91.4782,0,0,83.162,0.502
+SolarisVille,Drone,Electromagnetic Storm,Booming,Saturday,7,61.9145,0,0,30.9573,0.3984
+MetropolisX,Autonomous Vehicle,Electromagnetic Storm,Booming,Monday,19,56.3622,0,1,97.2856,0.3974
+AquaCity,Car,Electromagnetic Storm,Stable,Sunday,12,86.4,1,0,109.2344,0.5109
+Neuroburg,Drone,Solar Flare,Recession,Sunday,2,84.0666,0,0,47.7651,0.0422
+Ecoopolis,Autonomous Vehicle,Rainy,Booming,Friday,11,86.4,0,0,71.7825,0.1913
+TechHaven,Autonomous Vehicle,Solar Flare,Recession,Tuesday,22,105.309,0,0,95.7355,0.0817
+TechHaven,Autonomous Vehicle,Snowy,Stable,Wednesday,23,56.4863,0,0,54.0538,0.1026
+AquaCity,Autonomous Vehicle,Solar Flare,Recession,Saturday,20,77.5678,0,0,62.0543,0.2235
+SolarisVille,Autonomous Vehicle,Snowy,Booming,Saturday,23,54.7374,0,0,43.7899,0.4964
+MetropolisX,Autonomous Vehicle,Snowy,Recession,Saturday,10,60.9957,0,0,58.3691,0.1139
+SolarisVille,Car,Solar Flare,Recession,Friday,22,92.4118,0,0,92.4118,0.0289
+SolarisVille,Car,Clear,Recession,Friday,23,77.707,0,1,77.707,0.078
+MetropolisX,Car,Clear,Stable,Thursday,21,35.4834,0,0,40.322,0.4812
+AquaCity,Car,Electromagnetic Storm,Booming,Thursday,11,57.6501,0,0,72.0626,0.748
